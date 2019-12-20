@@ -50,7 +50,7 @@ div.blurb {
     text-align: center;
 }
 
-customers {
+#customers {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
@@ -65,7 +65,7 @@ customers {
 
 #customers tr:hover {background-color: #ddd;}
 
-th {
+#customers th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
