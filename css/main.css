@@ -54,11 +54,13 @@ table {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
+  align: center;
 }
 
 td, th {
   border: 1px solid #ddd;
   padding: 8px;
+  text-align: left;
 }
 
 tr:nth-child(even){background-color: #f2f2f2;}
