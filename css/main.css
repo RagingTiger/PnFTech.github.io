@@ -13,13 +13,12 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a {
-    text-decoration: underline;
-    color: #FF1493;
+    text-decoration: none;
+    color: #999;
 }
 a:hover {
     text-decoration: underline;
-    color: white;
-    background-color: black;
+    color: #FF1493;
 }
 h1 {
     font-size: 3em;
