@@ -63,9 +63,9 @@ ul.posts {
 }
 
 ul.posts li {
-    list-style: none;
-    font-family: 'Arial', 'Sans-Serif';
-    font-size: 1.5em;
+    list-style: "disc";
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.15em;
     margin-bottom: 7px;
 }
 
