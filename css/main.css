@@ -21,13 +21,13 @@ a:hover {
     color: #FF1493;
 }
 a.colorlink {
-    text-decoration: underline;
+    text-decoration: none;
     color: #FF1493;
 }
 a.button {
-    background-color: green;
+    background-color: #4CAF50;
     color: white;
-    border: 2px solid green;
+    border: 2px solid #4CAF50;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
@@ -59,12 +59,12 @@ footer {
 ul.posts {
     margin: 20px auto 40px;
     font-size: 1.5em;
-    line-height: 1.4em;
+    line-height: 1.5em;
 }
 
 ul.posts li {
     list-style: none;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Arial', 'Sans-Serif';
     font-size: 1.5em;
     line-height: 1.4em;
 }
