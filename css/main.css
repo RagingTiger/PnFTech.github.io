@@ -12,12 +12,12 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-.Row {
+.row {
     display: table;
     width: 100%; /*Optional*/
 
 }
-.Column {
+.column {
     display: table-cell;
 
 }
