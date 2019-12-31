@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 .row {
     display: table;
-    width: 100%; /*Optional*/
+    
 
 }
 .column {
