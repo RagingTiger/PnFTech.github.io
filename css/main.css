@@ -20,6 +20,7 @@ nav ul li, footer ul li {
     width:100%;
 }
 .column {
+    display: table-cell;
     padding: 10px;
     width: 30%;
 
