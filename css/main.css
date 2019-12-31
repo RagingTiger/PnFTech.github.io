@@ -13,18 +13,14 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
-.column {
-    float: left;
-    padding: 10px;
-    width:33.33%;
 
-}
 
 .row {
-    content: "";
     display: table;
-    clear: both;
-
+}
+.column {
+    padding: 10px;
+    width:33.33%;
 
 }
 a {
