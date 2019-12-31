@@ -19,7 +19,7 @@ nav ul li, footer ul li {
 }
 .column {
     display: table-cell;
-    width:300px;
+    width:50%;
 }
 a {
     text-decoration: none;
