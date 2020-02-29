@@ -111,3 +111,10 @@ th {
   color: white;
   text-align: center;
 }
+
+footer.p {
+  font-size: 0.9em;
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+  line-height: 1.4em;
+  color: #D3D3D3;
+}
