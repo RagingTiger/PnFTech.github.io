@@ -36,15 +36,15 @@ date: 2019-04-30
 
 带着以上几个问题，我们再来看看心理学领域里的几个分支：
 
-1) Attention and Perception
-2) Behavioral Neuroscience
-3) Clinical/Community
-4) Cognitive
-5) Cognitive Neuroscience
-6) Developmental
-7) Industrial-Organizational
-8) Quantitative
-9) Social-Personality
+* Attention and Perception
+* Behavioral Neuroscience
+* Clinical/Community
+* Cognitive
+* Cognitive Neuroscience
+* Developmental
+* Industrial-Organizational
+* Quantitative
+* Social-Personality
 
 等。
 

@@ -26,29 +26,22 @@ date: 2019-02-25
 
 （1）必需：
 
-	A. GPA 高中成绩单。由于美国的高中是9至12年级，所以这个成绩单里还要包含国内的初三成绩。
+	1) GPA 高中成绩单。由于美国的高中是9至12年级，所以这个成绩单里还要包含国内的初三成绩。
 
-	B. SAT/ACT。 美国本科入学考试，测试学生的阅读、数学和逻辑推理以及写作能力等。
+	2) [SAT](https://collegereadiness.collegeboard.org/sat)，[ACT](http://www.act.org/content/act/en/products-and-services/the-act.html)。 美国本科入学考试，测试学生的阅读、数学和逻辑推理以及写作能力等。
 
-官网：
-a. https://collegereadiness.collegeboard.org/sat
-
-b. http://www.act.org/content/act/en/products-and-services/the-act.html
-
-	C. TOEFL。国际学生入学考试，测试学生对日常用英语的听说读写能力。官网：https://toefl.neea.cn/
+	3) [TOEFL](https://toefl.neea.cn/)。国际学生入学考试，测试学生对日常用英语的听说读写能力。
 
 （2） 非必需，但可以提高学生的竞争力：
 
-	A. SAT2。也称为SAT Subject Tests，是针对不同学科的考试。目前有20个不同学科的考试，其中包括数学、生物、化学等。大部分学校对这项成绩并没有硬性要求，由学生自愿参加考试并提供。注意喽！有些学校时要求SAT2的，记得做好调查哦。
+	1) [SAT2](https://collegereadiness.collegeboard.org/sat-subject-tests/subjects)。也称为SAT Subject Tests，是针对不同学科的考试。目前有20个不同学科的考试，其中包括数学、生物、化学等。大部分学校对这项成绩并没有硬性要求，由学生自愿参加考试并提供。注意喽！有些学校时要求SAT2的，记得做好调查哦。
 
 在美国，很多高中生都是会根据自己想申请学校对SAT2的要求来选择考试科目的。
-官网：https://collegereadiness.collegeboard.org/sat-subject-tests/subjects
 
-	B. AP (Advanced Placement)。 对高中生开放的大学课程和考试，截止到2018年，有38门涉及到历史、数学、语言、计算机科学等多个学科的课程可选。
-官网： https://ap.collegeboard.org/
 
-	C. IB (International Baccalaureate)。国际中学毕业会考，同样是以课程和考试的形式进行。
-官网：https://www.ibo.org/about-the-ib/
+  2) [AP (Advanced Placement)](https://ap.collegeboard.org/)。 对高中生开放的大学课程和考试，截止到2018年，有38门涉及到历史、数学、语言、计算机科学等多个学科的课程可选。
+
+	3) [IB (International Baccalaureate)](https://www.ibo.org/about-the-ib/)。国际中学毕业会考，同样是以课程和考试的形式进行。
 
 3.第三方面试
 
@@ -72,9 +65,11 @@ b. http://www.act.org/content/act/en/products-and-services/the-act.html
 个人简介是学校用来了解学生的人生经历、兴趣、志向等。个人简介分为两个部分，第一部分一般是申请网站给出几个主题或问题，有学生从中选择一个或多个来写出自己的经历和体会；第二部分则是某些学校自己设计的附加主题或问题。
 
 来看看几个主题和问题例子吧：
+
 1）Describe an example of your leadership experience in which you have positively influenced others, helped resolve disputes or contributed to group efforts over time. (摘自2018-2019 UC admissions 加州大学申请系统)
 
-2) Reflect on a time when you questioned or challenged a belief or idea. What prompted your thinking? What was the outcome? (摘自2018 Common Application 申请网站)_
+2) Reflect on a time when you questioned or challenged a belief or idea. What prompted your thinking? What was the outcome? (摘自2018 Common Application 申请网站)
+
 3) Tell a story from your life, describing an experience that either demonstrates your character or helped to shape it.
 
 4) Why are you drawn to the area(s) of study you indicated earlier in this application? (You may share with us a skill or concept that you found challenging and rewarding to learn, or any experiences beyond course work that may have broadened your interest.) (摘自Brown University补充问题)
@@ -107,15 +102,14 @@ b. http://www.act.org/content/act/en/products-and-services/the-act.html
 
 敲黑板！并不是每个学校都有这些申请阶段的，同时，这些截止日期是大部分学校的哦，有些学校略不同！记得查好你所申请学校自己的各个截止日期。
 
-（1）提前申请截止日期：11月1日
-（2）提前录取截止日期：11月15日
-（3）第二批提前录取截止日期：不同学校有不同日期，一般在12月到1月
-（4）正常录取截止日期：TOP 50的学校里，绝大部分学校截止日在1月初。
+（1）提前申请或录取截止日期：11月1日或15日
 
+（2）第二批提前录取截止日期：不同学校有不同日期，一般在12月到1月
+
+（3）正常录取截止日期：TOP 50的学校里，绝大部分学校截止日在1月初
 
 记住以上截止日期的目的就是帮助大家提早准备好申请材料，不错过任何申请阶段，来提高自己的录取概率。
 
 具体对提前申请和提前录取的介绍，请参考我们之前的文章：[美国本科申请，Early Action and Early Decision](http://www.tessay.org/blog/2018/10/19/earlyadmission) 。
-
 
 以上就是我们在申请季开始前要做的准备工作清单了。如开头说的，接下来我们还会详细介绍很多细节工作，比如如何写个人简介、准备成绩单等。
