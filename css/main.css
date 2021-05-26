@@ -58,8 +58,12 @@ h3 {
     font-size: 1.5em;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
+h4 {
+  font-size: 1.3em;
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+  }
 p {
-    font-size: 1.2em;
+    font-size: 1.1em;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
     color: #333;
@@ -74,7 +78,6 @@ ul.posts {
 }
 
 ul.posts li {
-    list-style: "disc";
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.15em;
     margin-bottom: 7px;
@@ -118,3 +121,41 @@ footer.p {
   line-height: 1.4em;
   color: #D3D3D3;
 }
+
+/**
+ * Posts
+ */
+ .post-header {
+  margin-bottom: $spacing-unit;
+}
+
+.post-title {
+  font-size: 38px;
+  letter-spacing: -1px;
+  line-height: 1;
+}
+
+.post-content {
+  h2 {
+    font-size:32px;
+  }
+
+  h3 {
+    font-size: 26px;
+
+  }
+
+  h4 {
+    font-size: 20px;
+    }
+
+  p {
+    font-size:18px;
+  }
+
+  li {
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.15em;
+  }
+
+  }
