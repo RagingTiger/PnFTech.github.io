@@ -39,6 +39,7 @@ date: 2018-08-29
 最后，其实无论是在哪里就业或创业，我们都要走过一段踏踏实实，闷头苦干的时间，以证明自己的实力，得到老板或客户的认可和信任，然后路就会越走越顺了。所以，加油！
 
 
-Reference：
 
-http://www.ccg.org.cn/Research/View.aspx?Id=9643
+
+References:  
+1. http://www.ccg.org.cn/Research/View.aspx?Id=9643
