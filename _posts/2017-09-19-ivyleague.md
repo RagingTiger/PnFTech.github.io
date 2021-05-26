@@ -11,15 +11,23 @@ date: 2017-09-19
 
 今天，我们就来聊聊常春藤联盟。
 
-常春藤联盟是什么？
+**常春藤联盟是什么？**
 
-常春藤是由美国东北部的八所私立高等院校的运动队组成的体育联合会。常春藤联盟这个名字于1954年被正式使用。而这八所院校包括Harvard University, Yale University, Columbia University, Princeton University, the University of Pennsylvania, Cornell University, Brown University, 和Dartmouth University。
+常春藤是由美国东北部的八所私立高等院校的运动队组成的体育联合会。常春藤联盟这个名字于1954年被正式使用。而这八所院校包括  
+* Harvard University
+* Yale University
+* Columbia University
+* Princeton University
+* The University of Pennsylvania
+* Cornell University
+* Brown University
+* Dartmouth University
 
-常春藤联盟虽然最初是个体育联合会，但看这组员，我们不难看出，这个名字还代表了八所院校的学术成果之卓越，和进入学校的难度之大。所以Ivy League ＝ 顶尖名校。
+常春藤联盟虽然最初是个体育联合会，但看这组员，我们不难看出，这个名字还代表了八所院校的学术成果之卓越，和进入学校的难度之大。所以Ivy League ＝ **顶尖名校**。
 
 常春藤联盟不仅制定盟校间的运动比赛规则，还会一起讨论学校入学、财务、行政等方面的政策。
 
-常春藤这名字是怎么来的？
+**常春藤这名字是怎么来的？**
 
 常春藤（Ivy）的由来有两个说法。
 
@@ -27,7 +35,7 @@ date: 2017-09-19
 
 第二个常见说法则是来源于民间词源学。说是Ivy来源于罗马数字“IV”，因为最初的体育联盟只有四所学校。哪四所呢？Harvard，Yale，Princeton，和一个未知。Ivy League是从IV League衍生来的。
 
-常春藤学校的惊人成果
+**常春藤学校的惊人成果**
 
 政治上，盛产美国总统。
 
@@ -40,9 +48,9 @@ Harvard有36个，Yale有8个，Columbia有17个，Princeton有14个，Cornell�
 
 别人家的学校，嗯。。。
 
-而各个盟校其实都有自己更加出类拔萃的院系，比如Harvard的商学、法学、医学、教育学和管理学，Yale的法学、艺术、医学和计算机科学，Columbia的法学、商学和医学，Princeton的公共关系和计算机工程，Cornell的酒店管理和工程学
+而各个盟校其实都有自己更加出类拔萃的院系，比如Harvard的商学、法学、医学、教育学和管理学，Yale的法学、艺术、医学和计算机科学，Columbia的法学、商学和医学，Princeton的公共关系和计算机工程，Cornell的酒店管理和工程学。
 
-顶尖名校，是不是很难进？！
+**顶尖名校，是不是很难进？！**
 
 当然！这八所学校的本科录取率低至5.22%（Harvard），最高也只有13％（Cornell）。而研究生的录取率则要根据不同的专业来看。这些学校录取的本科生不仅拥有优异的学习成绩，还有着很强的独立能力，积极参与社会活动，并有着改变世界的雄心壮志。研究生则具有坚实的本科背景、扎实的学术研究能力和组织领导力等。
 
