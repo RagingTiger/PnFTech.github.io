@@ -150,12 +150,13 @@ footer.p {
     }
 
   p {
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     font-size:18px;
   }
 
   li {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1.15em;
+    font-size: 18px;
   }
 
   }
