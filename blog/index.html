@@ -1,11 +1,20 @@
 ---
 layout: default
-title: 
+title:
 ---
-	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+	<h1 class="page-heading">TEssay Blog</h1>
 
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
+	<ul class="posts">
+		{% for post in site.posts %}
+			{% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
+			{% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
+
+			<li>
+				<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+				<h2>
+					<a class="post-link" href="{{ post.url | relative_url }}"{% if lang != empty %} lang="{{ lang }}"{% endif %}>{{ post.title | escape }}{% if post.external-url %} &rarr;{% endif %}</a>
+				</h2>
+			</li>
+		{% endfor %}
 	</ul>
