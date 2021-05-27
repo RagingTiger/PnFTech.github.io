@@ -56,7 +56,10 @@ A little bit more than 24万。硕士项目入学人数占57%（～14万），�
 
 当然，这些数据是宏观的。当涉及到个案时，变量还有很多。希望大家尽力做好每一步，留学路上加油！
 
+<br>
+<br>
+<br>
+<br>
 
-  
 Reference:  
 1. http://cgsnet.org/ckfinder/userfiles/files/Intl_Survey_Report_Fall2017.pdf

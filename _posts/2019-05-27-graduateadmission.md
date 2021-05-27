@@ -72,7 +72,9 @@ A little bit more than 24.6万，其中只有8.4万是首次留学美国的学�
 
 当然，这些数据是宏观的。当涉及到个案时，变量还有很多。希望大家尽力做好每一步，留学路上加油！
 
-
-References：
-
+<br>
+<br>
+<br>
+<br>
+References：  
 https://www.cgsnet.org//ckfinder/userfiles/files/Intl_Survey_Report_Fall2018.pdf
