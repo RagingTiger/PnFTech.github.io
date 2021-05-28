@@ -48,7 +48,7 @@ date: 2019-05-27
  * [Quantnet](https://quantnet.com/mfe-programs-rankings/)
  * [TFETimes](https://tfetimes.com/best-financial-engineering-program-rankings/)
 
-3. 金融专业研究生申请要求  
+3.金融专业研究生申请要求  
  (1) 从以上举例的三所学校的金融专业硕士项目里我们能看到对申请者的要求主要包括：  
  * 数学基础：主要包括微积分、线性代数、微分方程、概率论和统计等。
  * 金融基础：宏观经济、公司金融、资本市场等。

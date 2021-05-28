@@ -10,7 +10,7 @@ date: 2019-06-01
 
 今天，我们就来一起看看艺术院校申请所需要的材料，以及准备过程。
 
-1. 申请材料  
+1.申请材料  
  (1) 作品集  
  关于作品集，首先要提醒大家的是，作为文书老师，我们对艺术生的作品集主要能给出逻辑和主题上的评价和建议，因为学生在作品集中所表现的创作兴趣、过程、技术等也会在文书中有所表现。而作品的排版、整合等技术性和细节性操作，建议艺术生们寻求更专业的作品集优化服务。
 
@@ -35,13 +35,12 @@ date: 2019-06-01
 
   以下是著名美国艺术院校Pratt 的Graphic Design专业的作品集要求（因为我们最近正好有一个学生就是在申请该专业硕士）：  
    1）[本科](https://www.pratt.edu/admissions/applying/applying-undergraduate/ug-application-requirements/freshman-and-transfer-portfolio-requirements/)申请的作品集要求：
-
-    > Visual Portfolio: Your visual portfolio should consist of 12-20 (including observational drawings (see below) pieces of your best and most recent work. It should consist of a variety of media and approaches. It can include assignment-based projects, self-directed work and sketchbook work, which often give us information on the applicant’s creative process.  The portfolio does not need to be major-specific and can include any type of work including paintings, drawings, printmaking, sculpture, ceramics, etc.  Please do not include work that copies photographs, uses the grid system or directly replicates any other artist's work (including replicating anime drawings, cartoons, or video game character designs).  
+    >Visual Portfolio: Your visual portfolio should consist of 12-20 (including observational drawings (see below) pieces of your best and most recent work. It should consist of a variety of media and approaches. It can include assignment-based projects, self-directed work and sketchbook work, which often give us information on the applicant’s creative process.  The portfolio does not need to be major-specific and can include any type of work including paintings, drawings, printmaking, sculpture, ceramics, etc.  Please do not include work that copies photographs, uses the grid system or directly replicates any other artist's work (including replicating anime drawings, cartoons, or video game character designs).  
     >
-    > In addition to the above, students must submit three to five drawings from observation (part of the 12-20 pieces). Examples of observational work include landscape, still-life, self-portrait, figure drawings, and interior spaces. Please do not submit drawings from imagination or copied from photographs for the observational work. This is fine, however, for pieces other than observational work.
+    >In addition to the above, students must submit three to five drawings from observation (part of the 12-20 pieces). Examples of observational work include landscape, still-life, self-portrait, figure drawings, and interior spaces. Please do not submit drawings from imagination or copied from photographs for the observational work. This is fine, however, for pieces other than observational work.
 
    2）[研究生](https://www.pratt.edu/admissions/applying/applying-graduate/grad-application-requirement/grad-departmental-requirements/)申请的作品集要求：  
-    > Work included in the portfolio may be self-generated, professional assignments, or course assignments done in an undergraduate or graduate program. Your portfolio should contain between 12 and 20 examples of your best work, including drawings, paintings, prints, graphic design, websites, photographs, videos, animations, three-dimensional sculptures or models, or computer-generated artwork. The intent of this portfolio review is for you to demonstrate creative potential, and give us enough information about you to determine whether or not this program is appropriate for you. Most important, the Admissions Committee will determine if you demonstrate the potential to successfully complete the Master’s degree program.
+    >Work included in the portfolio may be self-generated, professional assignments, or course assignments done in an undergraduate or graduate program. Your portfolio should contain between 12 and 20 examples of your best work, including drawings, paintings, prints, graphic design, websites, photographs, videos, animations, three-dimensional sculptures or models, or computer-generated artwork. The intent of this portfolio review is for you to demonstrate creative potential, and give us enough information about you to determine whether or not this program is appropriate for you. Most important, the Admissions Committee will determine if you demonstrate the potential to successfully complete the Master’s degree program.
 
   除此以外，大家也可以点击链接查看RISD的[本科](https://www.risd.edu/admissions/first-year/apply/)和[研究生](https://www.risd.edu/academics/graphic-design/graduate/)申请的作品集要求，或SAIC的[本科](http://www.saic.edu/t4/admissions/undergraduate/freshmen/requirements/portfolio/)和[研究生](http://www.saic.edu/academics/departments/visual-communication-design/master-fine-arts-studio#ac-0)的作品集要求。
 

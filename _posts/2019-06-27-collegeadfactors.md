@@ -10,7 +10,7 @@ date: 2019-06-27
 
 这些数据来自美国National Association for College Admission Counseling (NACAC)，[2018 State of College Admission (SCA)](https://www.nacacnet.org/globalassets/documents/publications/research/2018_soca/soca18.pdf) , 想了解更多更详细的数据，同学们可以直接到链接里去下载整个报告。
 
-1. 各项申请材料在国际学生录取中的重要程度  
+1.各项申请材料在国际学生录取中的重要程度  
 首先解释一下重要程度的数据是怎么来的？
 
 NACAC向美国大学发出2017-2018 Admission Trends Survey (ATS)，最后收到493份回复。参与问卷的学校对各项申请材料的重要程度做出评价（在considerable, moderate, limited, and no importance四项中选择）。最后NACAC统计和对比「选择各项申请材料的considerable importance的学校数占总数的百分比」。
@@ -50,7 +50,7 @@ Ok, data on.
  (2) 本科转学生  
  对于转学生，第一重要的就是大学综合GPA和可转学分课程的平均GPA。报告并未给出对于国际学生的各资料的比重， 参考本科新生的数据，我认为英语水平测试占比应该也是非常高的。
 
-2. Early Action (EA) 和Early Decision (ED)录取量更高吗？  
+2.Early Action (EA) 和Early Decision (ED)录取量更高吗？  
 对比2016和2017两年，EA的申请量增加9%，而录取量增加了10%，同时，ED申请量增加4%，而录取量增加5%。2017年秋季，只有5%的申请提交了ED。而ED的录取率是62%，高于总的录取率（51%）。越难申请的学校的ED录取率越高。同时，2017年秋季，44%的申请提交了EA。而EA的录取率是74%，高于总的录取率（64%）。
 
 所以总的来看，EA和ED的录取率确实是高于RD的。
@@ -59,7 +59,7 @@ Ok, data on.
 
 如果你想更多了解EA和ED，请参考我们之前的[文章](http://www.tessay.org/blog/2018/10/19/earlyadmission)。
 
-3. Wait lists结果怎样？  
+3.Wait lists结果怎样？  
 平均来看，2017年秋季申请中，有10%的申请者被放到了wait lists上。其中有50%的同学选择接受wait lists，最终有25%的学生被录取。越难申请的学校从Wait Lists上录取学生的数量越少，所以只有14%的同学选择接受这些难申请学校的Wait Lists，大部分同学都选择了放弃等待。
 
 关于美国本科申请相关的数据就介绍到这里。希望正在为申请做准备的大家能够根据这些数据查漏补缺，好好利用自己的强势，把握好各个申请阶段的截止日期，一切顺利。
