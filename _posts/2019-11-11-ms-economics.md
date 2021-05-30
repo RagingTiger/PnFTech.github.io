@@ -40,8 +40,7 @@ date: 2019-11-11
 GRE Analytical writing score > 80th percentile (=  5.0)GRE Verbal reasoning score > 50th percentile (= 150 on new scale; 500 on old scale)"
 
 + Personal Statement/Statement of Purpose  
-  学生要根据各个申请学校的规定，来撰写个人简介。比如[Tufts University](https://asegrad.tufts.edu/admissions/requirements-and-policies
-  )的MS in Economics规定学生提交一份Personal Statement，描述自己想在Tufts攻读经济学硕士学位的原因：  
+  学生要根据各个申请学校的规定，来撰写个人简介。比如[Tufts University](https://asegrad.tufts.edu/admissions/requirements-and-policies)的MS in Economics规定学生提交一份Personal Statement，描述自己想在Tufts攻读经济学硕士学位的原因：  
   > "You are required to upload a personal statement describing your reasons for wanting to pursue graduate study at Tufts. Please limit your personal statement to a maximum of five pages."
 
   而[纽约大学](http://gsas.nyu.edu/admissions/gsas-application-resource-center/statement-of-academic-purpose-and-personal-history-statement.html#other)的经济学硕士项目要求申请者提交Statement of Academic Purpose，阐述专业相关的学术和工作经历、学术目标和职业目标等。同时学生还可以选择性提交Personal History Statement，阐述自己攻读这个学位的动机，可以讨论生活经历、家庭背景、性别、社会服务等影响自己做出这个决定的因素。
