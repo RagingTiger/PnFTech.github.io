@@ -19,7 +19,7 @@ date: 2020-10-06
 
   申请截止日期是2021年1月5日。申请材料包括简历（学校提供了模版和格式要求）、文书（三个短问题）、一分钟视频自我介绍、随即视频问题、三封推荐信（推荐两封来自学校老师，一封来自上司）和成绩单。针对今年的COVID-19，申请者可以选择不提交GRE/GMAT，以及TOEFL/IELTS。
 
-+  **Princeton University - [Master in Finance](https://bcf.princeton.edu/master-in-finance/)**
++ **Princeton University - [Master in Finance](https://bcf.princeton.edu/master-in-finance/)**  
 
   Princeton的金融硕士项目重点培养学生在金融经济、金融工程、数据分析和计算方法方面的知识和技能。项目在4个学期内完成。毕业时学生有机会获得统计和机器学习中心颁发的研究生证书。课程包括5节核心课和11节选修课，以及第一年暑假学生需要完成一个实习或科研项目或回原雇主公司。核心课程包括Asset Pricing, Statistical Analysis of Financial Data, Corporate Finance and Financial Accounting, 和Financial Econometrics。选修课可以根据自己的兴趣和需要选择，也可以选择一个concentration下面的课程，concentrations包括Financial Engineering and Risk Management, Quantitative Asset Management and Macroeconomic Forecasting, 和 Data Science & Financial Technologies。同时第二年，学生可以选择在一位教授指导下完成科研项目。
 
