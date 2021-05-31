@@ -37,7 +37,7 @@ date: 2019-11-11
 
   对于GRE分数要求，要看大家具体选择申请的学校。比如以下是[New York University](https://as.nyu.edu/econ/graduate/ma/faqs.html#3)建议的GRE成绩:  
   > "GRE Quantitative reasoning score > 80th percentile (= 160 on new scale; 750 on old scale)
-GRE Analytical writing score > 80th percentile (=  5.0)GRE Verbal reasoning score > 50th percentile (= 150 on new scale; 500 on old scale)"
+GRE Analytical writing score > 80th percentile (=  5.0)GRE Verbal reasoning score > 50th percentile (= 150 on new scale; 500 on old scale)".
 
 + Personal Statement/Statement of Purpose  
   学生要根据各个申请学校的规定，来撰写个人简介。比如[Tufts University](https://asegrad.tufts.edu/admissions/requirements-and-policies)的MS in Economics规定学生提交一份Personal Statement，描述自己想在Tufts攻读经济学硕士学位的原因：  
@@ -52,7 +52,7 @@ GRE Analytical writing score > 80th percentile (=  5.0)GRE Verbal reasoning scor
   一般要求2-3封推荐信。推荐信的准备过程，请参考：[如何准备推荐信](http://www.tessay.org/blog/2017/09/06/lor)
 
 + 本科成绩单  
-  成绩单的准备，请参考：[如何准备成绩单](http://www.tessay.org/blog/2017/09/24/transcript)
+  成绩单的准备，请参考：[如何准备成绩单](http://www.tessay.org/blog/2017/09/24/transcript)。
 
 + TOEFL或IELTS  
   对于TOEFL或IELTS分数的要求，每个学校也有不同的规定，大家在选校时一定要看清最低分数。

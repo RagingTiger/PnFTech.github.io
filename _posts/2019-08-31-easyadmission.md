@@ -8,48 +8,62 @@ date: 2019-08-31
 
 虽然宏观来看排名越靠前的学校录取数/申请数的比例越低，但也有例外。下面我们就把这些例外摘出来，看看有哪些学校，虽然排名不错，录取率也很高的，尤其对中国学生非常友好。
 
-**藤校里的Cornell**  
-Cornell University作为八大常春藤联盟院校之一，每年招收的学生更多，有近一万五千名学生，录取率也最高，达到15%，而其他藤校的招生量小于一万，录取率小于10%。
++ **藤校里的Cornell**  
+  Cornell University作为八大常春藤联盟院校之一，每年招收的学生更多，有近一万五千名学生，录取率也最高，达到15%，而其他藤校的招生量小于一万，录取率小于10%。
 
-**加州大学系统**  
-根据US News综合排名，加州大学系统里的六所都在TOP 100里，UC Berkeley并没有加入排名，但其名声我们无需赘述。由于是公立大学，加州大学每所分校的招生量都在2万+至3万+，而录取数/申请数上，排名最靠前（TOP 20）的UCLA是17%，TOP 40 里的UC Santa Barbara, Irvine, Davis, 和San Diego 都在30%-40%之间，比相似排名区间的其他大部分学校都高。
++ **加州大学系统**  
+  根据US News综合排名，加州大学系统里的六所都在TOP 100里，UC Berkeley并没有加入排名，但其名声我们无需赘述。由于是公立大学，加州大学每所分校的招生量都在2万+至3万+，而录取数/申请数上，排名最靠前（TOP 20）的UCLA是17%，TOP 40 里的UC Santa Barbara, Irvine, Davis, 和San Diego 都在30%-40%之间，比相似排名区间的其他大部分学校都高。
 
-**TOP 20-30**  
- * Virginia University
- * University of Michigan, Ann Arbor
- * New York University
++ **TOP 20-30**  
+  * Virginia University
 
-这三所学校的录取数/申请数为30%左右，招生量分别为1万6千，3万，和两万6千。招生量和录取率都在TOP 30学校里的较高的。
+  * University of Michigan, Ann Arbor
 
-**TOP 30-40**  
- * Florida University
+  * New York University
 
-根据US News大学综合排名，排在TOP 40里的Florida University招生数为三万五千+，而录取数/申请数为48%。
+  这三所学校的录取数/申请数为30%左右，招生量分别为1万6千，3万，和两万6千。招生量和录取率都在TOP 30学校里的较高的。
 
-**TOP 50 里的这四所**  
- * University of Georgia
- * University of Illinois-Urbana Champaign
- * University of Wisconsin–Madison
- * University of Taxes-Austin
++ **TOP 30-40**  
+  * Florida University
 
-这几所学校是大部分目标申请TOP 50的同学的保守申请院校。根据National Association for College Admission Counseling (NACAC)的报告「2018 State of College Admission」（SCA），在美国大学里，录取率低于50%的即被归类于 “the most selective”。在TOP 50里，这四所学校里的前三所的录取率都超过了50%，其招生数也在三万到四万左右。UT Austin的录取率为39%，但招生量超过四万。
+  根据US News大学综合排名，排在TOP 40里的Florida University招生数为三万五千+，而录取数/申请数为48%。
 
-**TOP 50-70**  
- * Purdue University
- * Rutgers University -New Brunswick
- * University of Connecticut
- * Texas A&M University
++ **TOP 50 里的这四所**  
+  * University of Georgia
 
-这四所学校的录取率都在50%+，同时招生数也在3万-5万之间，除了University of Connecticut (招生数两万)，是申请背景中等偏上的同学们的首选。
+  * University of Illinois-Urbana Champaign
 
-**TOP 70-100**  
- * Virginia Tech
- * Michigan State University
- * Indiana University -Bloomington
- * University of Iowa
- * University of Colorado -Boulder
+  * University of Wisconsin–Madison
 
-这几所学校的录取率都在60% - 80%之间，算是TOP100的学校里非常高的了，招生量也在两万到3万之间。如果你的申请目标是排名100左右的学校，这几所学校非常值得考虑。而且University of Colorado –Boulder对于国际申请者的接受率是出了名的高。
+  * University of Taxes-Austin
+
+  这几所学校是大部分目标申请TOP 50的同学的保守申请院校。根据National Association for College Admission Counseling (NACAC)的报告「2018 State of College Admission」（SCA），在美国大学里，录取率低于50%的即被归类于 “the most selective”。在TOP 50里，这四所学校里的前三所的录取率都超过了50%，其招生数也在三万到四万左右。UT Austin的录取率为39%，但招生量超过四万。
+
++ **TOP 50-70**  
+  * Purdue University
+
+  * Rutgers University -New Brunswick
+
+  * University of Connecticut
+
+  * Texas A&M University
+
+  这四所学校的录取率都在50%+，同时招生数也在3万-5万之间，除了University of Connecticut (招生数两万)，是申请背景中等偏上的同学们的首选。
+
++ **TOP 70-100**  
+  * Virginia Tech
+
+  * Michigan State University
+
+  * Indiana University -Bloomington
+
+  * University of Iowa
+
+  * University of Colorado -Boulder
+
+  这几所学校的录取率都在60% - 80%之间，算是TOP100的学校里非常高的了，招生量也在两万到3万之间。如果你的申请目标是排名100左右的学校，这几所学校非常值得考虑。而且University of Colorado –Boulder对于国际申请者的接受率是出了名的高。
+
+<br>
 
 最后，希望我分享的这些学校数据和信息能帮助你更科学和系统的选择申请学校，祝大家都能offer多多。  
 <br>
