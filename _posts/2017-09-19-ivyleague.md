@@ -15,12 +15,19 @@ date: 2017-09-19
 
 常春藤是由美国东北部的八所私立高等院校的运动队组成的体育联合会。常春藤联盟这个名字于1954年被正式使用。而这八所院校包括  
 * Harvard University
+
 * Yale University
+
 * Columbia University
+
 * Princeton University
+
 * The University of Pennsylvania
+
 * Cornell University
+
 * Brown University
+
 * Dartmouth University
 
 常春藤联盟虽然最初是个体育联合会，但看这组员，我们不难看出，这个名字还代表了八所院校的学术成果之卓越，和进入学校的难度之大。所以Ivy League ＝ **顶尖名校**。
