@@ -17,7 +17,7 @@ date: 2020-09-19
 
 以下是各所学校的GRE政策：
 
-+ **[Princeton University](https://gradschool.princeton.edu/gre-requirements-department)**
++ **[Princeton University](https://gradschool.princeton.edu/gre-requirements-department)**
 
   八月底，Princeton再次更新了研究生院申请的GRE要求，打开下面链接，大家可以看到一个清晰的各专业GRE要求列表。目前大部分专业是不要求GRE或者GRE optional，仍需要提交GRE的专业有Economics，Finance, MPA。同时sociology和population studies2021年不接受新生。
 
@@ -78,6 +78,7 @@ date: 2020-09-19
       + [Institute for Data, Systems, and Society](https://gradadmissions.mit.edu/programs/idss)
 
   + School of Science **取消GRE要求的专业**：
+
     + [Earth, Atmospheric, and Planetary Sciences](https://eapsweb.mit.edu/prospective-students/overview)
 
     + [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/academics-admissions/graduate-program/admissions/dear-prospective-applicant)
@@ -95,9 +96,11 @@ date: 2020-09-19
     + [Linguistics](https://linguistics.mit.edu/graduate/admissions/faq/)
 
   + School of Humanities, Arts, and Social Sciences:
+
     + **取消GRE要求的专业**：[History, Anthropology, Science, Technology and Society](http://web.mit.edu/hasts/admissions/application.html)
 
     + GRE optional的专业：  
+
       + [Philosophy](https://philosophy.mit.edu/admissions/)
 
       + [Political Science](https://polisci.mit.edu/graduate/admissions)
@@ -119,9 +122,11 @@ date: 2020-09-19
   + [Pritzker School of Molecular Engineering](https://pme.uchicago.edu/phd-program/phd-program-how-apply) 2020-2021PhD申请不接收GRE成绩.
 
   + School of Social Sciences
-  2020-2021所有[PhD项目](https://socialsciences.uchicago.edu/admissions/application-materials/standardized-tests)申请GRE optional/not required，[International Relations MA](https://cir.uchicago.edu/content/apply)项目GRE recommended.
+
+    2020-2021所有[PhD项目](https://socialsciences.uchicago.edu/admissions/application-materials/standardized-tests)申请GRE optional/not required，[International Relations MA](https://cir.uchicago.edu/content/apply)项目GRE recommended.
 
   + School of Physical Sciences:  
+
     + [Astronomy and Astrophysics](https://astrophysics.uchicago.edu/academics/graduate-programs/how-to-apply/) 2020-2021申请取消GRE要求。
 
     + [Biophysics PhD](https://biophysics.uchicago.edu/the-students/application/)申请 GRE optional.
@@ -159,6 +164,7 @@ date: 2020-09-19
 + **Johns Hopkins University**
 
   + Art and Science:  
+
     + [Anthropology](https://anthropology.jhu.edu/graduate/admissions/) 2020-2021博士项目申请GRE取消
 
     + [Biology PhD](https://cmdb.jhu.edu/admissions/)项目申请GRE optional
@@ -188,6 +194,7 @@ date: 2020-09-19
     + [Sociology](https://soc.jhu.edu/graduate/admissions/) 2020-2021申请GRE optional
 
   + Carey Business School:  
+
     [MBA](https://carey.jhu.edu/programs/admissions/gmat-gre-test-waiver-policies)项目申请再满足以下两个条件下，GRE/GMAT optional：  
 
     + 本科毕业后工作三年以上
