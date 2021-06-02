@@ -25,12 +25,19 @@ date: 2020-05-18
 
 前面我们提到大多数兽医学院对申请者的本科专业没有硬性要求，但对先修课是有明确规定的。申请兽医学院研究生的先修课一般包括：
 + Biology/Zoology
+
 + Biochemistry
+
 + Mathematics/Statistics
+
 + Inorganic Chemistry
+
 + Organic Chemistry
+
 + Physics
+
 + English Composition
+
 + Humanities/Social Sciences
 
 等。
@@ -38,17 +45,25 @@ date: 2020-05-18
 具体每所学校要求的课程有差异，你可以到学校官网查询其先修课要求，也可以到VMCAS官网上查看全部兽医学院的先修课列表。
 
 下面我们以[Cornell University](https://www.vet.cornell.edu/education/doctor-veterinary-medicine/prospective-students/academic-preparation)的兽医学院申请的先修课要求来举例：
+
 + 1st Year:  
+
   + English Composition or Writing Intensive Courses (full year)
+
   + Biology (or Zoology) I and II with labs
+
   + General Chemistry I and II with labs
 
 + 2nd Year:  
+
   + One Semester of Organic Chemistry
+
   + General Physics I and II with labs
 
 + 3rd Year:  
+
   + Biochemistry (half-year; lab recommended, but not required; 4 semester credits)
+
   + One Semester in an Advanced Life Sciences Course
 
 回答开头提到的学生问题，如果你的本科专业并非动科、动医、或生物相关，可以选择在校修满以上列出的先修课，然后可以申请兽医学院。如果你已经毕业了，那可以先申请post-baccalaureate, pre-vet/pre-med 项目，完成先修课，然后申请兽医学院DVM项目。
@@ -65,7 +80,9 @@ date: 2020-05-18
 **其他申请材料要求**
 
 除了以上先修课信息和工作科研经历外，在申请时所需的其他申请材料包括：  
+
 + 文书。在填写VMCAS网站时，有三篇文书：  
+
   + There are many career choices within the veterinary profession. What are your future career goals?
 
   + In what ways do veterinarians contribute to society and what do you hope to contribute?
@@ -97,7 +114,6 @@ date: 2020-05-18
 
 + 其他
   每所学校还可能有其他的申请要求或流程，比如Purdue要求学生完成[CASPer](https://takecasper.com/)，测评申请者的领导、交流、合作等能力。UC Davis的面试阶段进行Multiple Mini Interview。
-
 <br>
 
 最后要提醒大家的是，在申请准备过程中，一定要仔细研究VMCAS申请系统，同时一定要仔细查看学校的申请要求，确保你清楚所有申请材料和信息，并且提前做好准备工作。还有很重要的一项，早准备早申请。

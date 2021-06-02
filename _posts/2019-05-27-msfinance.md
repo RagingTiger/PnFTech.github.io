@@ -12,12 +12,19 @@ date: 2019-05-27
 
   在金融专业里一般涵盖了以下几个细分领域：  
   + 资产管理（Asset management）
+
   + 风险管理（Risk management）
+
   + 金融衍生品定价和交易（ Derivatives pricing and trading）
+
   + 金融市场（Financial Markets）s
+
   + 公司股息政策、财产结构、并购重组、估值（Corporate Finance）
+
   + 固定收入分析（Fixed income analytics）
+
   + 金融工程（Financial Engineering）
+
   + 国际金融（International Finance）
 
   等等。
@@ -47,14 +54,19 @@ date: 2019-05-27
 
   *敲黑板！*  
   在我们帮助申请金融工程硕士的学生择校时，经常会用到的两个网站分享给大家：  
+
   + [Quantnet](https://quantnet.com/mfe-programs-rankings/)
+
   + [TFETimes](https://tfetimes.com/best-financial-engineering-program-rankings/)
 
 + **金融专业研究生申请要求**  
 
   + 从以上举例的三所学校的金融专业硕士项目里我们能看到对申请者的要求主要包括：  
+
     + 数学基础：主要包括微积分、线性代数、微分方程、概率论和统计等。
+
     + 金融基础：宏观经济、公司金融、资本市场等。
+
     + 编程基础：Python、R等（主要适用于金融工程、分析和计算金融等）。
 
     对于那些本科专业并非金融、数学、或经济相关的申请者们，自己要通过自学或工作来建立以上知识体系，这样会很大的提高录取几率。
@@ -64,8 +76,6 @@ date: 2019-05-27
   + TOEFL、IELTS或PTE（比如Wharton要求）。
 
   + 不同的项目还对个人简介（Essays）有不同的主题要求。
-
-<br>
 
 好了，关于金融专业硕士就讲这么多，希望大家在申请时能拓宽思路，找到适合自己职业规划的项目来申请。
 

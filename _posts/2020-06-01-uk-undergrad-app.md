@@ -21,21 +21,34 @@ date: 2020-06-01
 
   尽管一般申请英国本科的同学更多地准备的是A Levels或者International Baccalaureate Diploma Programme (IB)，目前英国的很多大学包括顶尖名校都已经将SAT/ACT、SAT subject tests 和AP作为录取标准之一。但要注意的是，与多数美国大学不同，很多英国大学对申请者的SAT/ACT、SAT subject tests 和AP科目和成绩都有最低要求。
 
-  下面我们以Cambridge和Oxford来举例：     
+  下面我们以Cambridge和Oxford来举例：  
+
     + **[University of Cambridge](https://www.undergraduate.study.cam.ac.uk/applying/entrance-requirements)**:  
+
       + TOEFL: 最低 110,  每项最低25分。
+
       + IELTS：最低7.5， 每项最低7。
+
       + SAT: 申请化工、计算机科学、经济、工程、数学、医学、兽医学和自然科学的学生SAT最低1500（阅读和数学都不得低于750）；其他专业最低1460（阅读和数学都不得低于730）。
+
       + ACT: 申请艺术和人文学科的学生SAT最低32，申请理科专业最低33。
+
       + SAT （II） subject tests: 一般情况下，SAT II不可以代替AP。如果学生由于某些原因AP课程不够，可以邮件联系申请的院系，看是否可以用SAT II来代替。
+
       + AP: 至少5门5分。同时，不同的专业有不同的AP科目要求，比如对于要求数学A Level的专业对应的AP课程是Calculus BC，而要求无力A Level的专业对应AP为Physics C。
 
     + **[University of Oxford](http://www.ox.ac.uk/admissions/undergraduate)**:  
+
       + TOEFL:申请计算机科学、数学和统计专业的学生TOEFL最低分100 （L22, R24, S25, W24）；其他专业最低分110 （L22, R24, S25, W24）。
+
       + IELTS：申请计算机科学、数学和统计专业的学生IELTS最低分7.0 （各项最低6.5）；其他专业最低分7.5 （各项最低7）。
+
       + SAT: 最低1470，不要求essay。
+
       + ACT: 最低32，不要求essay。
+
       + SAT （II） subject tests: 至少三门，不低于700分。同时，不同的专业有不同的SAT II科目要求。
+
       + AP: 至少3门5分。同时，不同的专业有不同的AP科目要求。比如经济管理专业要求至少一门AP与数学相关，对于要求数学A Level的专业对应的AP课程是Calculus BC，而要求无力A Level的专业对应AP为Physics C。
 
   + 申请网站  

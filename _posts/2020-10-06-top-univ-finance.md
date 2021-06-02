@@ -63,6 +63,7 @@ date: 2020-10-06
   UCLA的金融工程硕士项目开设于Anderson商学院，历时15个月。学生需要完成70个学分的课程和项目，以及一个暑期实习。秋季和冬季学期的课程包括Financial Accounting, Econometrics, Stochastic Calculus, Financial Decision Making, Fixed Income Markets等；春季和第二个秋季学期的必修课包括Computational Methods, Financial Risk Management, 四门选修课和实践项目，其中实践项目历时7个月，以四个学生为一组，与一个公司合作，将理论定量金融研究的方法运用到实际问题的解决中去。
 
   申请截止日期有三轮：2020年12月31日，2021年3月1日和2021年4月30日。申请时，需要提交GRE/GMAT (Q平均分90%+)，和TOEFL/IELTS。其他申请材料包括成绩单、简历、两篇文书、两封推荐信等。文书问题：  
+  
   > + Financial engineering requires a combination of mathematical/quantitative abilities and creative thinking. Describe a project you worked on, either as a student or professional, that demonstrates your analytical and creative problem-solving skills. Tell us why this project was interesting to you. (maximum 750 words)
 
   > + Why does a career in quantitative finance appeal to you? Based on your abilities and what you know about careers in financial engineering, why do you think this is the right career path for you? (maximum 750 words)

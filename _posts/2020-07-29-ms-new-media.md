@@ -18,10 +18,15 @@ date: 2020-07-29
 
 在传媒专业里，学生学习如何利用媒体来传播文字、语音和视频形式的信息。通过学习和分析各类媒体的内容、历史和影响，理解不同信息和传播方式所对应的不同观/听众。传媒专业涵盖领域非常广，分支专业有很多，目前很难找到一个统一的分类，根据一些学校传媒专业研究生项目提供的concentrations，我们总结得出的传媒的细分领域主要包括：  
 + Communication (传播学)
+
 + Journalism （新闻学）
+
 + Public Relations （公共关系）
+
 + Film & Television （电影与电视）
+
 + Digital Media （数字媒体）
+
 + Media Studies （媒介研究）
 
 **传媒专业研究生的就业方向有哪些？**
@@ -38,12 +43,19 @@ date: 2020-07-29
 
   西北大学的[MS in Communication](https://msc.northwestern.edu/hybrid-leadership-program/)是开设在传播学院下的，专门为有一定管理工作经历的申请者设计的。课程包括：  
   + Foundation of Strategic Communication Management
+
   + Using Data to Make Informed Decisions
+
   + Dialogic Decision-Making
+
   + Information Design
+
   + Leading Collaboration
+
   + Current Issues in Law, Technology and Strategy
+
   + Understanding and Leveraging Networks
+
   + Communication Skills Practicum
 
 
@@ -55,13 +67,21 @@ date: 2020-07-29
 + 公共关系硕士  
   南加大新闻和传播学院下的公共关系和广告硕士[（public relations and advertising, MA）](https://annenberg.usc.edu/journalism/public-relations-ma)课程包括：
   + Introduction to Strategic Public Relations (3 units)
+
   + Storytelling with Data Intelligence (3 units)
+
   + Advanced Audience Insight Mining (3 units)
+
   + Multimedia Content Creation for Brand Storytelling I (3 units)
+
   + Multimedia Content Creation for Brand Storytelling II (3 units)
+
   + Understanding Transmedia Audiences (3 units)
+
   + Business and Economic Foundations for Public Relations (3 units)
+
   + Writing for Strategic Public Relations (3 units)
+
   + Graduate Honors Seminar: Improvisational Leadership (3 units)
 
   以及三门选修课。同时，完成毕业论文时，学生可以选择论文或报告形式。
@@ -71,9 +91,13 @@ date: 2020-07-29
 
   波士顿大学传播学院下的广告学硕士（MS in Advertising），必修课包括：
   + Principles and Practices of Advertising
+
   + Consumer Insight and Account Planning
+
   + Fundamental of Creative Development
+
   + Advertising Management
+
   + ADLab
 
   核心课需要四门，可从十余种课程中选择，包括Creative Video Development, Interactive Marketing Strategies, Strategic Brand Solutions等。选修课三门。毕业论文可选择论文或报告形式。
@@ -86,7 +110,9 @@ date: 2020-07-29
 
   GA Tech的[MS in Digital Media](https://dm.lmc.gatech.edu/program/ms-program/?doing_wp_cron=1595991393.4363079071044921875000)项目前身是MS in Information Design and Technology。这个项目非常注重学生CS技能和实践能力的培养和训练。课程包括必修课：  
   + The Computer as an Expressive Medium
+
   + Discovery and Invention in Digital Media
+
   + Principles of Interactive Design
 
   和两个工作室项目，5节选修课，一个暑假实习和毕业论文。
@@ -104,6 +130,7 @@ date: 2020-07-29
 + Personal Statement 和简历  
   请参考我们的文章：  
   + [美研申请，如何写好PS？](http://www.tessay.org/blog/2017/09/02/ps)
+
   + [美研申请，如何准备简历？](http://www.tessay.org/blog/2017/09/12/resume)
 
 

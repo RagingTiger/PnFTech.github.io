@@ -74,10 +74,15 @@ date: 2019-05-03
 
 + 文书  
   如果你所申请的学校有文书要求，根据所给的题目来完成。比如Harvard Secondary School Program的申请里有五篇essay (250-350 words)要求：  
+
   + What course(s) at Harvard Summer School interest you and why?
+
   + Define what academic integrity means to you.  How has it impacted you as a student?
+
   + Describe an event or person who has greatly influenced you and why.
+
   + You are tasked with creating a new high school course or student club.  Tell us the name of the course or student club, the description, and why you chose to create it.  Be creative.
+
   + Have you ever incurred serious or repeated disciplinary action, or have you been suspended? If yes, please explain.  If no, please simply state: "No".  (If new circumstances alter your status at school after you have submitted this form, you must notify us as soon as possible.)
 
 + 推荐信  

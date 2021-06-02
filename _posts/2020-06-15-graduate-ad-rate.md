@@ -77,4 +77,5 @@ date: 2020-06-15
 当然，最终能决定我们是否被自己心仪学校录取的，还有很多其他因素，比如学术背景、语言成绩、GRE/GMAT、工作经历、文书等等。希望大家尽力做好每一步，留学路上加油！
 
 References：  
+
 1. https://cgsnet.org/sites/default/files/civicrm/persist/contribute/files/CGS%20Fall%202019%20International%20Report.pdf

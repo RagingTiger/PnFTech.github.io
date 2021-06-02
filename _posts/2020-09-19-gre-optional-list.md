@@ -46,7 +46,8 @@ date: 2020-09-19
 
 + **MIT**
 
-  + Sloan School of Management 2020-2021申请**GRE/GMAT optional**的项目:   
+  + Sloan School of Management 2020-2021申请**GRE/GMAT optional**的项目:  
+   
     + [MBA](https://mitsloan.mit.edu/mba/admissions/how-to-apply)(TOEFL optional too)
 
     + [Master of Finance](https://mitsloan.mit.edu/mfin/apply/common-questions)

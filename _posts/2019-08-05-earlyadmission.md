@@ -60,7 +60,7 @@ EA和ED时间比RD更靠前，这就给很多同学增加了不少压力，为�
 
     + Personal Essay  
 
-      在几个主流第三方申请网站上都有一篇personal essay，要求500-600字左右。从选择主题到初稿再到反复修改，需要大家预留充分的时间。关于Personal Essay的介绍，请大家参考我们的文章](http://www.tessay.org/blog/2019/03/02/personalessay)。
+      在几个主流第三方申请网站上都有一篇personal essay，要求500-600字左右。从选择主题到初稿再到反复修改，需要大家预留充分的时间。关于Personal Essay的介绍，请大家参考我们的[文章](http://www.tessay.org/blog/2019/03/02/personalessay)。
 
     + 学校附加文书  
 
