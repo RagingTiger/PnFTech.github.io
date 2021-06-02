@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " 美国数据分析硕士TOP Universities"
-date: 202-03-17
+date: 2020-03-17
 ---
 
 嗨，大家好～
