@@ -8,13 +8,13 @@ date: 2021-03-20
 
 上两篇文章里，我们分别介绍了通过申请文书（Personal  Essay）学校想了解什么，和如何选择文书主题、经历和故事来表现你的特点:
 
-[美本申请 | 文书写作 I - What do they want to see?](http://www.tessay.org/blog/2021/03/03/admission-essay-what-to-show)
++ [What do they want to see?](http://www.tessay.org/blog/2021/03/03/admission-essay-what-to-show)
 
-[美本申请 | 文书写作 II - Discover Your Story](http://www.tessay.org/blog/2021/03/05/admission-essay-discover-your-story)
++ [Discover Your Story](http://www.tessay.org/blog/2021/03/15/admission-essay-discover-your-story)
 
 在选择经历的过程中，我们需要思考、反省，来挖掘经历背后更深层的意义，比如why you chose to do that, why it is important to you, how it has changed you……
 
-为什么要有思考这一步呢？(I'm so glad you asked!)
+**为什么要有思考这一步呢？**(I'm so glad you asked!)
 
 文书的构成，包括对你很重要的经历、人或物，和其对你的意义的感悟和分析。从个人角度来看，思考过程可以让我们了解自己为什么会做出某个选择，比如选择某个专业或活动；也可以让我们看到某些经历对我们兴趣、人格和价值观的形成过程中所产生的影响；还可以让我们更好地了解自己的性格、品质等。而从申请文书的角度来看，招生老师想看到你分析和反思的能力，并通过你的分析来了解你是谁，你的成长，你关注什么，你想成为什么的人。
 
@@ -94,6 +94,8 @@ date: 2021-03-20
 <br>
 
 
-References：  
+References：
+
 [^fn1]: Accepted! 50 Successful College Admission Essays by Gen and Kelly Tanabe
+
 [^fn2]: https://apply.jhu.edu/application-process/essays-that-worked/

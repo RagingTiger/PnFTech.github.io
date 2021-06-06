@@ -109,6 +109,7 @@ date: 2021-03-03
 <br>
 
 References:
+
 [^fn1]: Write Your Way into College by Lauren Starkey
 
 [^fn2]: https://apply.jhu.edu/application-process/essays-that-worked/
