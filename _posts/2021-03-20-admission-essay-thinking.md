@@ -8,7 +8,7 @@ date: 2021-03-20
 
 上两篇文章里，我们分别介绍了通过申请文书（Personal  Essay）学校想了解什么，和如何选择文书主题、经历和故事来表现你的特点:
 
-+ [What do they want to see?](http://www.tessay.org/blog/2021/03/03/admission-essay-what-to-show)
++ [What Do They Want To See?](http://www.tessay.org/blog/2021/03/03/admission-essay-what-to-show)
 
 + [Discover Your Story](http://www.tessay.org/blog/2021/03/15/admission-essay-discover-your-story)
 

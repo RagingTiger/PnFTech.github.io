@@ -4,7 +4,7 @@ title: "美本申请 | 申请文书 II - Discover Your Story"
 date: 2021-03-15
 ---
 
-[上一篇文章](http://www.tessay.org/blog/2021/03/03/admission-essay-what-to-show)里，我们介绍了通过申请文书（Personal  Essay）学校想看到学生的哪些特点、品质和能力。那从学生的角度，当我们开始写文书时，要着重表现哪一/哪些方面的自己呢？如何选择自己的经历、故事来想学校展示呢？
+[上一篇文章](http://www.tessay.org/blog/2021/03/03/admission-essay-what-to-show)里，我们介绍了通过申请文书（Personal Essay）学校想看到学生的哪些特点、品质和能力。那从学生的角度，当我们开始写文书时，要着重表现哪一/哪些方面的自己呢？如何选择自己的经历、故事来想学校展示呢？
 
 是要表现自己面对失败的坚韧，对某一专业的兴趣，还是对自己最有意义的一个成就呢？我们要如何选择呢？
 
@@ -110,4 +110,3 @@ References:
 [^fn2]: Conquering the College Admissions Essay in 10 Steps by Alan Gelb
 
 [^fn3]: Accepted! 50 Successful College Admission Essays by Gen and Kelly Tanabe
-Discover Your Story
