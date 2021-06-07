@@ -47,12 +47,12 @@ date: 2020-09-19
 + **MIT**
 
   + Sloan School of Management 2020-2021申请**GRE/GMAT optional**的项目:  
-   
-    + [MBA](https://mitsloan.mit.edu/mba/admissions/how-to-apply)(TOEFL optional too)
+
+    + [MBA](https://mitsloan.mit.edu/mba/admissions/how-to-apply) (TOEFL optional too)
 
     + [Master of Finance](https://mitsloan.mit.edu/mfin/apply/common-questions)
 
-    + [Master of Business Analytics](https://mitsloan.mit.edu/master-of-business-analytics/admissions/how-to-apply)(TOEFL optional too)
+    + [Master of Business Analytics](https://mitsloan.mit.edu/master-of-business-analytics/admissions/how-to-apply) (TOEFL optional too)
 
   + School of Engineering:  
 
@@ -108,7 +108,7 @@ date: 2020-09-19
 
 + **Yale University**  
 
-  Yale在[graduate school of arts and sciences](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements)网页上列出了各专业对2020-2021申请季的GRE要求，其中一些专业将GRE要求取消或更改为GRE optional，比如Astronomy，Biochemistry，Physics，Psychology，Statistics and Data Science等。
+  Yale在[Graduate School of Arts and Sciences](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements)网页上列出了各专业对2020-2021申请季的GRE要求，其中一些专业将GRE要求取消或更改为GRE optional，比如Astronomy，Biochemistry，Physics，Psychology，Statistics and Data Science等。
 
 + **Stanford University**
 
@@ -152,7 +152,7 @@ date: 2020-09-19
 
 + **University of Pennsylvania**
 
-  UPenn的[]文理研究生院](https://gradadm.seas.upenn.edu/how-to-apply/)大部分专业的申请GRE optional，除了Biotechnology, Computer Graphics and Game Technology and Robotics 三个专业的硕士项目申请。
+  UPenn的[文理研究生院](https://gradadm.seas.upenn.edu/how-to-apply/)大部分专业的申请GRE optional，除了Biotechnology, Computer Graphics and Game Technology and Robotics 三个专业的硕士项目申请。
 
 + **Northwestern University**
 
@@ -236,7 +236,7 @@ date: 2020-09-19
 
 + **Rice University**
 
-  [Rice研究生项目](https://graduate.rice.edu/admissions/qualifications2020-2021申请GRE optional，但也有一些专业鼓励或强烈推荐申请者提交。
+  [Rice研究生项目](https://graduate.rice.edu/admissions/qualifications2020-2021申请GRE) optional，但也有一些专业鼓励或强烈推荐申请者提交。
 
 + **University of Notre Dame**
 
@@ -270,7 +270,7 @@ date: 2020-09-19
 
 + **University of Southern California**
 
-  以下[链接](https://gradadm.usc.edu/our-programs/)的网页里列出了USC研究生院的所有学院。学院链接下即可找到所有研究生项目。其中Viterbi工程学院的绝大部分项目都要求GRE。Dornsife文理学院有些专业2020-2021申请GRE optional/not required，比如Economics, Physics and Astronomy, Psychology, Sociology, Philosophy等。
+  [链接](https://gradadm.usc.edu/our-programs/)的网页里列出了USC研究生院的所有学院。学院链接下即可找到所有研究生项目。其中Viterbi工程学院的绝大部分项目都要求GRE。Dornsife文理学院有些专业2020-2021申请GRE optional/not required，比如Economics, Physics and Astronomy, Psychology, Sociology, Philosophy等。
 
 + **Carnegie Mellon University**
 
@@ -327,7 +327,6 @@ date: 2020-09-19
 
 以上就是2020-2021申请季美国TOP30大学研究生院对GRE的政策。希望你能从中找到你即将申请的学校和专业，或了解搜索其他学校GRE申请要求的方法。祝大家国庆加中秋快乐，申请顺利哦。
 
-References：  
+References：
+  
 1. https://thetech.com/2020/08/27/no-gre-requirements
-
-GRE Optional
