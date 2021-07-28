@@ -159,4 +159,9 @@ footer.p {
     font-size: 18px;
   }
 
+  ol {
+    font-family: 'Arial';
+    font-size: 18px;
+  }
+
 }
