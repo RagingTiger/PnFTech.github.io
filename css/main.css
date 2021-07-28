@@ -83,6 +83,16 @@ ul.posts li {
     margin-bottom: 7px;
 }
 
+ol.posts {
+    margin: 20px auto 40px;
+}
+
+ol.posts li {
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.15em;
+    margin-bottom: 7px;
+}
+
 div.blurb {
     text-align: center;
 }
@@ -159,9 +169,6 @@ footer.p {
     font-size: 18px;
   }
 
-  ol {
-    font-family: 'Arial';
-    font-size: 18px;
-  }
+
 
 }
