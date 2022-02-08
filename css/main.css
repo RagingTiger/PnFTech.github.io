@@ -83,6 +83,15 @@ ul.posts li {
     margin-bottom: 7px;
 }
 
+ul.sub {
+    margin: 22px auto 40px;
+}
+ul.sub li {
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.1em;
+    margin-bottom: 7px;
+}
+
 ol.posts {
     margin: 20px auto 40px;
 }
