@@ -16,14 +16,14 @@ date: 2021-10-04
 
   对比三个排名方法，我们看到US News的世界大学排名因素全部都与科研相关，后到这篇文章后面你会发现其世界综合排名因素跟学科排名是相同的，但针对各学科有不同的调整。Times爱你的世界大学排名除了学术相关的因素，还包括教学声誉和资源、国际化和与企业合作等因素。QS的排名因素，相比其他两个机构，则简单的多，在测量学术声誉、毕业学生工作情况上都采用了问卷调查的形式，教学资源和科研水平的测量因素都分别只有一个，国际化因素有两个。除了有些排名因素的不同，大家也要仔细对比相同因素在各排名里所占的比重，比如教学声誉问卷在Times的比重时15%，而在QS是40%。
 
-  ![Table 1. International Ranking Factors](/assets/images/international_ranking_factors.png)
+  ![Table 1. International Ranking Factors](/assets/images/ranking_method/international_ranking_factors.png)
 
 
 + 美国大学综合排名
 
   除了国际大学排名，如果你准备申请的只是美本或美研，那美国大学综合排名也是非常重要的参考依据。通过下面表2中三个排名方法的对比，我们可以看到他们所考量的因素和其比重也有很多不同。US News的排名因素主要涵盖返校率和毕业率、教职资源、录取选拔严苛程度、学生财政资源等；Times的排名涉及到的因素主要包括教学资源（财政、教职和科研）、学生参与度、毕业成果、多样性和国际化（学生和教职人员）；QS排名里考量的因素包括就业前景、多样性和国际化（学生和教职人员）、教学和科研成果等。总的来对比三个美国大学综合排名，US News和Times把更高的比重学术和教学方面，QS对科研资源和多样性和国际化的重视程度比其他两个都高一些。
 
-  ![Table 2. American Ranking Factors](/assets/images/american_ranking_factors.png)
+  ![Table 2. American Ranking Factors](/assets/images/ranking_method/american_ranking_factors.png)
 
 + 学科排名
 
