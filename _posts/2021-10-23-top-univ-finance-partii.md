@@ -139,11 +139,11 @@ date: 2021-10-23
 
   + **University of North Carolina at Charlotte - [M.S. in Mathematical Finance](https://belkcollege.charlotte.edu/academic-programs/graduate-programs)**
 
-  UNC Charlotte的数学金融硕士项目是由金融系、经济系和数学统计系联合开办的。项目要求学生修满30学分。课程设置包括18学分的必修：Financial Economic Theory, Cross-Section and Time-Series Economics, Stochastic Calculus for Finance等；12学分选修，选修有三个分支可选：Computational Finance, Risk Management 和 Financial Data Analytics；以及最后的综合考试。学校每年会有一定数量的助教/助研机会提供给学生。同时，Charlotte是美国南方的金融中心之一，为这个硕士项目提供了地理位置优势。
+    UNC Charlotte的数学金融硕士项目是由金融系、经济系和数学统计系联合开办的。项目要求学生修满30学分。课程设置包括18学分的必修：Financial Economic Theory, Cross-Section and Time-Series Economics, Stochastic Calculus for Finance等；12学分选修，选修有三个分支可选：Computational Finance, Risk Management 和 Financial Data Analytics；以及最后的综合考试。学校每年会有一定数量的助教/助研机会提供给学生。同时，Charlotte是美国南方的金融中心之一，为这个硕士项目提供了地理位置优势。
 
-  先修课包括微积分I和II、线性代数、概率论和统计、金融管理、微观经济学原理和编程（建议C或C++）。
+    先修课包括微积分I和II、线性代数、概率论和统计、金融管理、微观经济学原理和编程（建议C或C++）。
 
-  申请时需要提交GRE或GMAT（数学部分>85%），TOEFL（最低83）或IELTS（最低6.5），成绩单（GPA>3.0/4.0，且大三大四平均成绩>3.0），简历，文书和三封推荐信。
+    申请时需要提交GRE或GMAT（数学部分>85%），TOEFL（最低83）或IELTS（最低6.5），成绩单（GPA>3.0/4.0，且大三大四平均成绩>3.0），简历，文书和三封推荐信。
 
 以上就是我们对金融硕士和金融工程硕士项目的一些列举。结合我们的另一篇文章（美国金融硕士 Top Universities），希望可以帮助大家找到更适合自己的学校。
 
