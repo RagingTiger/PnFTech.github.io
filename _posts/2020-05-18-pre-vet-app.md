@@ -71,11 +71,13 @@ date: 2020-05-18
 [Princeton University](https://hpa.princeton.edu/prehealth-after-princeton/postbac-programs/career-change)为本科毕业生总结的**Post-baccalaureate programs**，其中包括Columbia, UPenn等学校。有些学校只接受在美国获得本科学位的申请者，请大家根据自己的情况找到适合的学校。更多学校和项目信息请查看链接或直接搜索post-baccalaureate, pre-vet/pre-med。
 
 
-**兽医相关工作经历**
+**经历**
 
 在申请DVM项目时，非常重要的一项就是动物、兽医和/或研究经历。动物经历可以是动物收容所、农场、动物园、水族馆等场所的工作。兽医经历一般需要直接与兽医接触的工作，比如job shadowing，或者兽医助理。多数学校是要求学生动物经历和兽医经历都要有的。
 
 有些学校明确规定了最低工作时间, 比如UC Davis规定的最低180个小时的动物、兽医和/或研究经历（往届被录取学生的平均时间是1475小时），也有的学校没有最低要求，比如Purdue官网上写明了工作科研经历重质不重量。
+
+除了上面这些经历，课外/社区活动也是一项重要的经历，可以体现学生的兴趣爱好、领导力等。
 
 **其他申请材料要求**
 
@@ -90,6 +92,7 @@ date: 2020-05-18
   + Consider the breadth of society which we serve. What attributes do you believe are essential to be successful within the veterinary profession? Of these attributes, which do you possess and how have you demonstrated these in the past?
 
   在附加申请材料部分，不同的学校还可能有自己的**附加文书**。比如Virginia Tech DVM项目申请的附加文书：  
+
   + We would like to know more about you above and beyond what we can capture on the VMCAS application. Please tell us what you think resiliency is and why you might or not believe resiliency is an important attribute to have while participating in a veterinary education program and for life after graduation. Please feel free to share personal stories as examples. (4000 characters)
 
   + There much discussion regarding multicultural competency and diversity within veterinary education. What does this mean to you? How might you add to the diversity of the program?  Why is diverse population important in a classroom setting and perhaps in your work life? Please feel free to share personal stories as examples. (4000 characters)
@@ -100,15 +103,15 @@ date: 2020-05-18
 
 + 成绩单：在VMCAS网站上提交申请时，学生需要填写修过课程的所有大学、课程和成绩。
 
-  有些学校要求国际申请者必须完成WES成绩认证（www.wes.org ），比如UC Davis。从国内学信网认证到WES成绩单认证耗时至少一个月，申请旺季可能更久，大家一定要提前完成认证。
+  如果你曾就读于美加之外的大学，或者部分课程在美加之外修的，那这部分的成绩单需要WES认证（http://www.wes.org ）。从国内学信网认证到WES成绩单认证耗时要一个月，申请旺季可能更久，大家一定要提前完成认证。
 
-  注意！这里还有一个VMCAS成绩单认证过程。申请者除了要把课程信息和成绩列在申请表格里之外，还需要由学校教务处（Registrar's Office ）或者WES把官方成绩单邮寄给VMCAS，然后他们会对照官方成绩单核实申请表格。核实完成后，才会把申请材料递交给你申请的每所学校。
+  注意！这里还有一个VMCAS成绩单认证过程。申请者除了要把课程信息和成绩列在申请表格里之外，还需要由学校教务处（Registrar's Office ）或者WES把官方成绩单邮寄/发送给VMCAS，然后他们会对照官方成绩单核实申请表格。核实完成后，才会把申请材料递交给你申请的每所学校。
 
   官方成绩单需要在2020年9月15日前寄到VMCAS，认证过程长达四周，早提交早录取！
 
 + GRE：大多数兽医学院要求申请者提交GRE成绩，但也有例外，比如Cornell从今年开始取消GRE成绩。
 
-+ TOEFL：大部分兽医学院都有TOEFL最低分要求，比如Cornell 最低100，UC Davis最低105。
++ TOEFL：大部分兽医学院都有TOEFL最低分要求，比如Cornell 最低100，UC Davis最低105。如果你会（或已经）在美国拿到学士学位，大多数学校会免除托福要求，建议大家提前跟学校确认。
 
   注意！当前受疫情影响，GRE和TOEFL要求可能变更。有些学校取消了GRE，比如Virginia Tech。请大家多多关注学校近期发布的信息，或者直接发邮件向学校确认最新申请要求。
 
@@ -119,3 +122,11 @@ date: 2020-05-18
 最后要提醒大家的是，在申请准备过程中，一定要仔细研究VMCAS申请系统，同时一定要仔细查看学校的申请要求，确保你清楚所有申请材料和信息，并且提前做好准备工作。还有很重要的一项，早准备早申请。
 
 DVM是一个需要对动物医学的热爱和坚定的信念来完成的学位。我们这几年里接触的申请兽医学院的学生都有着强烈的热情、优秀的学术科研背景和明确的职业规划。我很荣幸可以认识和帮助这些有爱的学生完成文书和其他申请材料。希望喜欢动物医学的你可以顺利申请到理想的学校，然后投身到热爱的事业中去。
+
+—Update—
+
+原文章写于2020年，从DVM2025级申请开始，VMCAS申请表格有部分变动，比如文书主题。很多学校也取消了GRE要求。请大家在申请时参考VMCAS和各学校官网最新的信息。
+
+References:
+
+aavmc.org 

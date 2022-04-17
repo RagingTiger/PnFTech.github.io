@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "关于Veterinary Experience，你需要了解的"
+title: "美国兽医院申请之Veterinary Experience，你需要了解的"
 date: 2022-04-15
 ---
 
@@ -30,7 +30,7 @@ date: 2022-04-15
 
 + **什么是 veterinary experience?**
 
-Veterinary experience是指在临床环境下和兽医的管理指导下的工作经历。一般属于veterinary experience的工作职位（或项目）及其工作内容包括以下几类：
+  Veterinary experience是指在临床环境下和兽医的管理指导下的工作经历。一般属于veterinary experience的工作职位（或项目）及其工作内容包括以下几类：
 
   + 兽医助理 (vet assistant)： 工作内容一般包括术前准备、术后护理、基础的物理检测、药物管理、文件整理、喂食、清洁、与客户交流等。
 
@@ -42,21 +42,21 @@ Veterinary experience是指在临床环境下和兽医的管理指导下的工�
 
 + **什么是 animal experience?**
 
-Animal experience则不需要兽医的管理和指导，也不需要是在clinical environment。你可以在宠物店, dog-walking service, 农场，动物园，水族馆等找到实习或志愿者工作，工作内容可以包括喂食、看护、清洁、杀菌等。
+  Animal experience则不需要兽医的管理和指导，也不需要是在clinical environment。你可以在宠物店, dog-walking service, 农场，动物园，水族馆等找到实习或志愿者工作，工作内容可以包括喂食、看护、清洁、杀菌等。
 
-注意！如果你不确定自己的某些经历为veterinary experience，可以发邮件给你计划申请的学校admission committee，他们会帮你更清楚地定义。
+  注意！如果你不确定自己的某些经历为veterinary experience，可以发邮件给你计划申请的学校admission committee，他们会帮你更清楚地定义。
 
 + **Veterinary experience 为什么重要？**
 
-在美，想成为一名兽医需要学生大量的时间、精力和金钱上的投入，而正式入职后又会面对高强度和高压力的工作氛围和复杂的工作任务。因此要成为一名兽医仅靠兴趣和理想远远不够，还需要你能够客观的认识这个职业和自己。通过veterinary experience，学生可以近距离观察和辅助兽医的工作，体验兽医院、动物园、农场等工作环境，了解身处这个行业所有遇到的挑战。同时，在这些经历中，学生也可以了解自己是否适合这个职业，了解自己对哪些分支领域更感兴趣，如何在整个兽医甚至公共健康领域做出贡献等。
+  在美，想成为一名兽医需要学生大量的时间、精力和金钱上的投入，而正式入职后又会面对高强度和高压力的工作氛围和复杂的工作任务。因此要成为一名兽医仅靠兴趣和理想远远不够，还需要你能够客观的认识这个职业和自己。通过veterinary experience，学生可以近距离观察和辅助兽医的工作，体验兽医院、动物园、农场等工作环境，了解身处这个行业所有遇到的挑战。同时，在这些经历中，学生也可以了解自己是否适合这个职业，了解自己对哪些分支领域更感兴趣，如何在整个兽医甚至公共健康领域做出贡献等。
 
-DVM项目的招生委员会希望通过veterinary experience（以及推荐信和文书）看到学生对兽医这个职业有一个真实和全面的了解，对自己的兴趣和目标有更清晰的认识。这就是veterinary experience在申请中举足轻重的原因。
+  DVM项目的招生委员会希望通过veterinary experience（以及推荐信和文书）看到学生对兽医这个职业有一个真实和全面的了解，对自己的兴趣和目标有更清晰的认识。这就是veterinary experience在申请中举足轻重的原因。
 
 + **你需要多少veterinary experience?**
 
-Veterinary experience 是以小时来计数的，所以在工作时，你需要记录好时间。VMCAS申请里，veterinary experience可以从高中（国内的9年级）开始积累。
+  Veterinary experience 是以小时来计数的，所以在工作时，你需要记录好时间。VMCAS申请里，veterinary experience可以从高中（国内的9年级）开始积累。
 
-在学校的admission committee评估申请时，会从两方面来给vet experience打分：**小时数** 和 **多样性**。
+  在学校的admission committee评估申请时，会从两方面来给vet experience打分：**小时数** 和 **多样性**。
 
   + **小时数**
 
@@ -72,17 +72,17 @@ Veterinary experience 是以小时来计数的，所以在工作时，你需要�
 
 + **地理位置上，从哪里可以获得兽医经历？**
 
-*"在国内的宠物诊所、收容所、动物园等场所的实习经历（在兽医的监督管理下）可以算做DVM申请里的veterinary experience吗？"*
+  *"在国内的宠物诊所、收容所、动物园等场所的实习经历（在兽医的监督管理下）可以算做DVM申请里的veterinary experience吗？"*
 
-这是我们被问过很多次的问题。答案是算的。
+  这是我们被问过很多次的问题。答案是算的。
 
-经过我们跟多所学校的DVM招生委员会核实(2022年初)，veterinary experience 并没有地理位置上的限制。只要是在当地认证的兽医管理下的工作都算veterinary experience, 同时兽医上司可以为你写推荐信（英文）。
+  经过我们跟多所学校的DVM招生委员会核实(2022年初)，veterinary experience 并没有地理位置上的限制。只要是在当地认证的兽医管理下的工作都算veterinary experience, 同时兽医上司可以为你写推荐信（英文）。
 
-因此如果你在高中时就有计划申请pre-vet 和DVM，那从国内的初三（9年级）就可以开始积攒veterinary experience 和 animal experience。
+  因此如果你在高中时就有计划申请pre-vet 和DVM，那从国内的初三（9年级）就可以开始积攒veterinary experience 和 animal experience。
 
-当然在国内veterinary experience的基础上，大家入学美本后，也要继续努力增加这些经历，拿到更多兽医的推荐信。
+  当然在国内veterinary experience的基础上，大家入学美本后，也要继续努力增加这些经历，拿到更多兽医的推荐信。
 
-再次提醒，如果你不确定你的某些经历是否符合申请要求，请直接跟申请学校的招生办公室联系，他们会帮你解答。
+  再次提醒，如果你不确定你的某些经历是否符合申请要求，请直接跟申请学校的招生办公室联系，他们会帮你解答。
 
 + **如何申请 veterinary experience?**
 
@@ -114,7 +114,7 @@ Veterinary experience 是以小时来计数的，所以在工作时，你需要�
 
   + [申请美国兽医学院，需要满足哪些条件？](http://www.tessay.org/blog/2020/12/29/dvm-application)
 
-如果你需要pre-vet或DVM申请上的指导，请参考我们的[服务主页](tessay.org)。
+如果你需要pre-vet或DVM申请上的指导，请参考我们的[服务主页](http://www.tessay.org/)。
 
 
 References:
