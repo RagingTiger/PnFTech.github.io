@@ -30,9 +30,7 @@ date: 2022-04-15
 
 + **什么是 veterinary experience?**
 
-Veterinary experience是指在临床环境下和兽医的管理指导下的工作经历。通过veterinary experience, 招生委员会希望看到学生对兽医这个职业有一个真实和全面的了解，对自己的兴趣和目标有更清晰的认识。
-
-一般属于veterinary experience的工作职位（或项目）及其工作内容包括以下几类：
+Veterinary experience是指在临床环境下和兽医的管理指导下的工作经历。一般属于veterinary experience的工作职位（或项目）及其工作内容包括以下几类：
 
   + 兽医助理 (vet assistant)： 工作内容一般包括术前准备、术后护理、基础的物理检测、药物管理、文件整理、喂食、清洁、与客户交流等。
 
@@ -47,6 +45,12 @@ Veterinary experience是指在临床环境下和兽医的管理指导下的工�
 Animal experience则不需要兽医的管理和指导，也不需要是在clinical environment。你可以在宠物店, dog-walking service, 农场，动物园，水族馆等找到实习或志愿者工作，工作内容可以包括喂食、看护、清洁、杀菌等。
 
 注意！如果你不确定自己的某些经历为veterinary experience，可以发邮件给你计划申请的学校admission committee，他们会帮你更清楚地定义。
+
++ **Veterinary experience 为什么重要？**
+
+在美，想成为一名兽医需要学生大量的时间、精力和金钱上的投入，而正式入职后又会面对高强度和高压力的工作氛围和复杂的工作任务。因此要成为一名兽医仅靠兴趣和理想远远不够，还需要你能够客观的认识这个职业和自己。通过veterinary experience，学生可以近距离观察和辅助兽医的工作，体验兽医院、动物园、农场等工作环境，了解身处这个行业所有遇到的挑战。同时，在这些经历中，学生也可以了解自己是否适合这个职业，了解自己对哪些分支领域更感兴趣，如何在整个兽医甚至公共健康领域做出贡献等。
+
+DVM项目的招生委员会希望通过veterinary experience（以及推荐信和文书）看到学生对兽医这个职业有一个真实和全面的了解，对自己的兴趣和目标有更清晰的认识。这就是veterinary experience在申请中举足轻重的原因。
 
 + **你需要多少veterinary experience?**
 
@@ -68,7 +72,7 @@ Veterinary experience 是以小时来计数的，所以在工作时，你需要�
 
 + **地理位置上，从哪里可以获得兽医经历？**
 
-*在国内的宠物诊所、收容所、动物园等场所的实习经历（在兽医的监督管理下）可以算做DVM申请里的veterinary experience吗？*
+*"在国内的宠物诊所、收容所、动物园等场所的实习经历（在兽医的监督管理下）可以算做DVM申请里的veterinary experience吗？"*
 
 这是我们被问过很多次的问题。答案是算的。
 
