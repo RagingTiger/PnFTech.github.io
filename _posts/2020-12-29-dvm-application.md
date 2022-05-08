@@ -96,17 +96,17 @@ date: 2020-12-29
 
   + GRE
 
-  大多数兽医学院要求申请者提交GRE成绩，但也有例外，比如Cornell从今年开始取消GRE成绩。
+    大多数兽医学院要求申请者提交GRE成绩，但也有例外，比如Cornell从今年开始取消GRE成绩。
 
   + TOEFL
 
-  大部分兽医学院都有TOEFL最低分要求，比如Cornell 最低100，UC Davis最低105。
+    大部分兽医学院都有TOEFL最低分要求，比如Cornell 最低100，UC Davis最低105。
 
-  注意！当前受疫情影响，GRE和TOEFL要求可能变更。有些学校取消了GRE，比如Virginia Tech。请大家多多关注学校近期发布的信息，或者直接发邮件向学校确认最新申请要求。
+    注意！当前受疫情影响，GRE和TOEFL要求可能变更。有些学校取消了GRE，比如Virginia Tech。请大家多多关注学校近期发布的信息，或者直接发邮件向学校确认最新申请要求。
 
   + 其他
 
-  每所学校还可能有其他的申请要求或流程，比如Purdue要求学生完成CASPer（https://takecasper.com/），测评申请者的领导、交流、合作等能力。UC Davis的面试阶段进行Multiple Mini Interview。
+    每所学校还可能有其他的申请要求或流程，比如Purdue要求学生完成CASPer（https://takecasper.com/），测评申请者的领导、交流、合作等能力。UC Davis的面试阶段进行Multiple Mini Interview。
 
 
 最后要提醒大家的是，在申请准备过程中，一定要仔细研究VMCAS申请系统，同时一定要仔细查看学校的申请要求，确保你清楚所有申请材料和信息，并且提前做好准备工作。还有很重要的一项，早准备早申请。
