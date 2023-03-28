@@ -1,1 +1,13 @@
+# jekyll
 _site/
+.jekyll-cache/
+
+# jupyter
+.cache/
+.ipython/
+.jupyter/
+.local/
+.ipynb_checkpoints/
+
+# conversion
+converted/
