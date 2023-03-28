@@ -148,6 +148,7 @@ delout:
 
 # cleanup everything
 clean: delout resetnb
+	@ rm -rf ${CURRENTDIR}/_site
 
 # launch jupyter notebook development Docker image
 jupyter:
