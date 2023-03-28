@@ -9,6 +9,7 @@
 # make clean   # combine resetnb and remove converted files
 # make sync    # copy all recently converted files to _posts/ and assets/
 # make unsync  # remove all recently converted files from _posts/ and assets/
+# make reset   # the big daddy HARD RESET: completely reverses all changes
 # make jupyter # startup docker container running Jupyter server
 # make jekyll  # startup docker container running Jekyll server
 
@@ -149,6 +150,9 @@ delout:
 # cleanup everything
 clean: delout resetnb
 	@ rm -rf ${CURRENTDIR}/_site
+
+# reset to original state undoing all changes
+reset: unsync clean
 
 # launch jupyter notebook development Docker image
 jupyter:
