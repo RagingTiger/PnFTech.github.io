@@ -17,3 +17,6 @@ jupyter/converted/
 
 # data
 jupyter/data/
+
+# sync
+*.synced_history
