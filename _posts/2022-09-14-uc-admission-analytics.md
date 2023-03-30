@@ -19,7 +19,7 @@ Note: 从原申请数据中可以看出UC Merced加州居民的录取数量高�
 
 
     
-![png](/assets/images/2022-09-14-UC_Admission_Analytics_files/2022-09-14-UC_Admission_Analytics_3_0.png)
+![png](/assets/images/2022-09-14-uc-admission-analytics_files/2022-09-14-uc-admission-analytics_3_0.png)
     
 
 
@@ -27,7 +27,7 @@ Note: 从原申请数据中可以看出UC Merced加州居民的录取数量高�
 
 
     
-![png](/assets/images/2022-09-14-UC_Admission_Analytics_files/2022-09-14-UC_Admission_Analytics_5_0.png)
+![png](/assets/images/2022-09-14-uc-admission-analytics_files/2022-09-14-uc-admission-analytics_5_0.png)
     
 
 
@@ -40,13 +40,13 @@ Note: 从原申请数据中可以看出UC Merced加州居民的录取数量高�
 
 
     
-![png](/assets/images/2022-09-14-UC_Admission_Analytics_files/2022-09-14-UC_Admission_Analytics_7_0.png)
+![png](/assets/images/2022-09-14-uc-admission-analytics_files/2022-09-14-uc-admission-analytics_7_0.png)
     
 
 
 
     
-![png](/assets/images/2022-09-14-UC_Admission_Analytics_files/2022-09-14-UC_Admission_Analytics_8_0.png)
+![png](/assets/images/2022-09-14-uc-admission-analytics_files/2022-09-14-uc-admission-analytics_8_0.png)
     
 
 
@@ -54,7 +54,7 @@ Note: 从原申请数据中可以看出UC Merced加州居民的录取数量高�
 
 
     
-![png](/assets/images/2022-09-14-UC_Admission_Analytics_files/2022-09-14-UC_Admission_Analytics_10_0.png)
+![png](/assets/images/2022-09-14-uc-admission-analytics_files/2022-09-14-uc-admission-analytics_10_0.png)
     
 
 
@@ -66,13 +66,13 @@ Note: 从原申请数据中可以看出UC Merced加州居民的录取数量高�
 
 
     
-![png](/assets/images/2022-09-14-UC_Admission_Analytics_files/2022-09-14-UC_Admission_Analytics_12_0.png)
+![png](/assets/images/2022-09-14-uc-admission-analytics_files/2022-09-14-uc-admission-analytics_12_0.png)
     
 
 
 
     
-![png](/assets/images/2022-09-14-UC_Admission_Analytics_files/2022-09-14-UC_Admission_Analytics_13_0.png)
+![png](/assets/images/2022-09-14-uc-admission-analytics_files/2022-09-14-uc-admission-analytics_13_0.png)
     
 
 
@@ -84,13 +84,13 @@ Note: 从原申请数据中可以看出UC Merced加州居民的录取数量高�
 
 
     
-![png](/assets/images/2022-09-14-UC_Admission_Analytics_files/2022-09-14-UC_Admission_Analytics_15_0.png)
+![png](/assets/images/2022-09-14-uc-admission-analytics_files/2022-09-14-uc-admission-analytics_15_0.png)
     
 
 
 
     
-![png](/assets/images/2022-09-14-UC_Admission_Analytics_files/2022-09-14-UC_Admission_Analytics_16_0.png)
+![png](/assets/images/2022-09-14-uc-admission-analytics_files/2022-09-14-uc-admission-analytics_16_0.png)
     
 
 
