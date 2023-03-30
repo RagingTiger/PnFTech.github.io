@@ -10,4 +10,13 @@ _site/
 .ipynb_checkpoints/
 
 # conversion
-converted/
+jupyter/converted/
+
+# notebooks
+*.ipynb
+
+# data
+jupyter/data/
+
+# sync
+*.synced_history
