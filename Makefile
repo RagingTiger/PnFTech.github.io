@@ -26,7 +26,7 @@
 # make cli args
 OFRMT := markdown
 THEME := dark
-TMPLT := tessay.md
+TMPLT := jekyll_markdown
 BASDR := jupyter
 OUTDR := ${BASDR}/converted
 INTDR := ${BASDR}/notebooks
@@ -121,8 +121,8 @@ jupyter:
 	  docker logs ${JPTCTNR} 2>&1 | \
 	    grep "http://127.0.0.1" | tail -n 1 | \
 	    sed "s/:8888/:$$(docker port ${JPTCTNR} | \
-	    grep '0.0.0.0:' | awk '{print $$3'} | sed 's/0.0.0.0://g')/g"
-	@ echo "${JPTCTNR}" >> .running_containers
+	    grep '0.0.0.0:' | awk '{print $$3'} | sed 's/0.0.0.0://g')/g" && \
+	echo "${JPTCTNR}" >> .running_containers
 
 # rule for executing single notebooks before converting
 %.ipynb:
@@ -166,8 +166,8 @@ jekyll:
 	             jekyll serve && \
 	sleep 5 && \
 	   echo "Server address: http://0.0.0.0:$$(docker port ${JKLCTNR} | \
-	    grep '0.0.0.0:' | awk '{print $$3'} | sed 's/0.0.0.0://g')"
-	@ echo "${JKLCTNR}" >> .running_containers
+	    grep '0.0.0.0:' | awk '{print $$3'} | sed 's/0.0.0.0://g')" && \
+	echo "${JKLCTNR}" >> .running_containers
 
 # launch all docker containers
 containers: jupyter jekyll
