@@ -116,6 +116,7 @@ jupyter:
 	    grep "http://127.0.0.1" | tail -n 1 | \
 	    sed "s/:8888/:$$(docker port ${JPTCTNR} | \
 	    grep '0.0.0.0:' | awk '{print $$3'} | sed 's/0.0.0.0://g')/g"
+	@ echo "${JPTCTNR}" >> .running_containers
 
 # rule for executing single notebooks before converting
 %.ipynb:
@@ -160,6 +161,18 @@ jekyll:
 	sleep 5 && \
 	   echo "Server address: http://0.0.0.0:$$(docker port ${JKLCTNR} | \
 	    grep '0.0.0.0:' | awk '{print $$3'} | sed 's/0.0.0.0://g')"
+	@ echo "${JKLCTNR}" >> .running_containers
+
+# launch all docker containers
+containers: jupyter jekyll
+
+# stop all containers
+stop-containers:
+	@ while read container; do \
+		echo -n "Stopping Docker container -> "; \
+	  docker stop $$container; \
+	done < ${CURRENTDIR}/.running_containers
+	@ rm -f ${CURRENTDIR}/.running_containers
 
 # unsync all converted files back to original locations
 unsync:
