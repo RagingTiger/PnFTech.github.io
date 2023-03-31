@@ -29,6 +29,8 @@ DCTNR := $(notdir $(PWD))
 LGLVL := WARN
 FGEXT := _files
 FGSDR := 'assets/images/{notebook_name}${FGEXT}'
+GITBR := master
+GITRM := origin
 
 # extensions available
 OEXT_html     = html
@@ -77,6 +79,8 @@ NOTEBOOKS  := $(wildcard ${INTDR}/*.ipynb)
 CONVERTNB  := $(addprefix ${OUTDR}/, $(notdir $(NOTEBOOKS:%.ipynb=%.${OEXT})))
 
 # docker-related variables
+JKLCTNR = jekyll.${DCTNR}
+JPTCTNR = jupyter.${DCTNR}
 DCKRIMG = ghcr.io/ragingtiger/omega-notebook:master
 DCKRRUN = docker run --rm -v ${CURRENTDIR}:/home/jovyan -it ${DCKRIMG}
 
@@ -94,8 +98,24 @@ NBCLER = jupyter nbconvert --clear-output --inplace
 # COMMANDS                                                                     #
 ################################################################################
 
-# default
+# defaults to converting all UN-converted notebooks
 all: ${CONVERTNB}
+
+# launch jupyter notebook development Docker image
+jupyter:
+	@ echo "Launching Jupyter in Docker container -> ${JPTCTNR} ..."
+	@ docker run -d \
+	           --rm \
+	           --name ${JPTCTNR} \
+	           -e JUPYTER_ENABLE_LAB=yes \
+	           -p 8888 \
+	           -v ${CURRENTDIR}:/home/jovyan \
+	           ${DCKRIMG} && \
+	sleep 5 && \
+	  docker logs ${JPTCTNR} 2>&1 | \
+	    grep "http://127.0.0.1" | tail -n 1 | \
+	    sed "s/:8888/:$$(docker port ${JPTCTNR} | \
+	    grep '0.0.0.0:' | awk '{print $$3'} | sed 's/0.0.0.0://g')/g"
 
 # rule for executing single notebooks before converting
 %.ipynb:
@@ -107,13 +127,15 @@ ${OUTDR}/%.${OEXT}: %.ipynb
 	@ echo "Converting ${INTDR}/$< to ${OFRMT}"
 	@ ${DCKRRUN} ${NBCNVR} ${INTDR}/$<
 
-# convert all notebooks to HTML
-convert:
-	@ ${DCKRRUN} ${NBCNVR} ${NOTEBOOKS}
-
 # execute all notebooks and store output inplace
 execute:
+	@ echo "Executing all Jupyter notebooks: ${NOTEBOOKS}"
 	@ ${DCKRRUN} ${NBEXEC} ${NOTEBOOKS}
+
+# convert all notebooks to HTML
+convert:
+	@ echo "Converting all Jupyter notebooks: ${NOTEBOOKS}"
+	@ ${DCKRRUN} ${NBCNVR} ${NOTEBOOKS}
 
 # sync all converted files to necessary locations in TEssay source
 sync:
@@ -122,6 +144,20 @@ sync:
 	@ echo "Moving all jupyter converted files to _posts/ and assets/ dirs."
 	@ cp ${OUTDR}/*.${OEXT} ${CURRENTDIR}/_posts/
 	@ rsync -havP ${OUTDR}/assets/ ${CURRENTDIR}/assets
+
+# create jekyll static site
+jekyll:
+	@ echo "Launching Jekyll in Docker container -> ${JKLCTNR} ..."
+	@ docker run -d \
+	           --rm \
+	           --name ${JKLCTNR} \
+	           -v ${CURRENTDIR}:/srv/jekyll:Z \
+	           -p 4000 \
+	           jekyll/jekyll:4.2.0 \
+	             jekyll serve && \
+	sleep 5 && \
+	   echo "Server address: http://0.0.0.0:$$(docker port ${JKLCTNR} | \
+	    grep '0.0.0.0:' | awk '{print $$3'} | sed 's/0.0.0.0://g')"
 
 # unsync all converted files back to original locations
 unsync:
@@ -139,45 +175,20 @@ unsync:
 
 # remove output from executed notebooks
 resetnb:
+	@ echo "Removing all output from Jupyter notebooks."
 	@ ${DCKRRUN} ${NBCLER} ${NOTEBOOKS}
 
 # delete all converted files
 delout:
+	@ echo "Deleting all converted files."
 	@ if [ -d "${CURRENTDIR}/${OUTDR}" ]; then \
 	  rm -rf "${CURRENTDIR}/${OUTDR}"; \
 	fi
 
 # cleanup everything
 clean: delout resetnb
+	@ echo "Removing Jekyll static site directory."
 	@ rm -rf ${CURRENTDIR}/_site
 
 # reset to original state undoing all changes
 reset: unsync clean
-
-# launch jupyter notebook development Docker image
-jupyter:
-	docker run -d \
-	           --rm \
-	           --name ${DCTNR} \
-	           -e JUPYTER_ENABLE_LAB=yes \
-	           -p 8888 \
-	           -v ${CURRENTDIR}:/home/jovyan \
-	           ${DCKRIMG} && \
-	sleep 5 && \
-	  docker logs ${DCTNR} 2>&1 | \
-	    grep "http://127.0.0.1" | tail -n 1 | \
-	    sed "s/:8888/:$$(docker port ${DCTNR} | \
-	    grep '0.0.0.0:' | awk '{print $$3'} | sed 's/0.0.0.0://g')/g"
-
-# create jekyll static site
-jekyll:
-	docker run -d \
-	           --rm \
-	           --name jekyll-${DCTNR} \
-	           -v ${CURRENTDIR}:/srv/jekyll:Z \
-	           -p 4000 \
-	           jekyll/jekyll:4.2.0 \
-	             jekyll serve && \
-	sleep 5 && \
-	   echo "Server address: http://0.0.0.0:$$(docker port jekyll-${DCTNR} | \
-	    grep '0.0.0.0:' | awk '{print $$3'} | sed 's/0.0.0.0://g')"
