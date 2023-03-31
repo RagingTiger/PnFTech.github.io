@@ -139,10 +139,12 @@ convert:
 
 # sync all converted files to necessary locations in TEssay source
 sync:
-	@ ls ${OUTDR} | grep ".*\.${OEXT}$$" >> ${BASDR}/.synced_history
-	@ ls ${OUTDR}/assets/images >> ${BASDR}/.synced_history
+	@ echo "_posts/$$(ls ${OUTDR} | grep ".*\.${OEXT}$$")" \
+	  >> ${BASDR}/.synced_history
+	@ echo "assets/images/$$(ls ${OUTDR}/assets/images)" \
+	  >> ${BASDR}/.synced_history
 	@ echo "Moving all jupyter converted files to _posts/ and assets/ dirs."
-	@ cp ${OUTDR}/*.${OEXT} ${CURRENTDIR}/_posts/
+	@ rsync -havP ${OUTDR}/*.${OEXT} ${CURRENTDIR}/_posts/
 	@ rsync -havP ${OUTDR}/assets/ ${CURRENTDIR}/assets
 
 # create jekyll static site
@@ -161,14 +163,14 @@ jekyll:
 
 # unsync all converted files back to original locations
 unsync:
-	@ echo "Removing all jupyter converted files from _posts/ and assets/ dirs."
+	@ echo "Removing all jupyter converted files from _posts/ and assets/ dirs:"
 	@ while read item; do \
 	  if echo "$$item" | grep -q ".*\.${OEXT}$$"; then \
-	    rm -f "_posts/$${item}"; \
-	    echo "Removed: _posts/$$item"; \
+	    rm -f "$${item}"; \
+	    echo "Removed -> $$item"; \
 	  else \
-	    rm -rf "assets/images/$${item}"; \
-	    echo "Removed: assets/images/$$item"; \
+	    rm -rf "$${item}"; \
+	    echo "Removed -> $$item"; \
 	  fi \
 	done < ${BASDR}/.synced_history
 	@ rm -f ${BASDR}/.synced_history
