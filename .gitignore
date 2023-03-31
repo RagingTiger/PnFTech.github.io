@@ -20,3 +20,6 @@ jupyter/data/
 
 # sync
 *.synced_history
+
+# containers
+*.running_containers
