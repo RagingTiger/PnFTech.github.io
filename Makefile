@@ -166,6 +166,22 @@ jekyll:
 # launch all docker containers
 containers: jupyter jekyll
 
+# git add and git commit synced files
+commit:
+	@ echo "Adding and committing recently synced files to Git repository ..."
+	@ while read item; do \
+	  git add $$item; \
+	done < ${BASDR}/.synced_history
+	@ git commit -m "Adding new ${OFRMT} posts to repository."
+
+# git push branch to remote
+push:
+	@ echo "Pushing Git commits to remote ${GITRM} on branch ${GITBR} ..."
+	@ git push ${GITRM} ${GITBR}
+
+# super command to convert, sync, commit, and push new jupyter posts
+publish: all sync commit push
+
 # stop all containers
 stop-containers:
 	@ while read container; do \
