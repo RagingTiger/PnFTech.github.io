@@ -1,17 +1,23 @@
-.PHONY: all convert execute resetnb delout clean jupyter
+.PHONY: all jupyter execute convert sync jekyll containers commit push publish \
+        stop-containers unsync clear-nb clear-output clear-jekyll clean reset
 
 # Usage:
-# make         # execute and convert all Jupyter notebooks
-# make convert # only convert Jupyter notebooks
-# make execute # only execute Jupyter notebooks
-# make resetnb # only clear Jupyter notebook outputs
-# make delout  # only remove converted files
-# make clean   # combine resetnb and remove converted files
-# make sync    # copy all recently converted files to _posts/ and assets/
-# make unsync  # remove all recently converted files from _posts/ and assets/
-# make reset   # the big daddy HARD RESET: completely reverses all changes
-# make jupyter # startup docker container running Jupyter server
-# make jekyll  # startup docker container running Jekyll server
+# make                 # execute and convert all Jupyter notebooks
+# make jupyter         # startup Docker container running Jupyter server
+# make execute         # execute all Jupyter notebooks (in place)
+# make convert         # convert all Jupyter notebooks (even if not changed)
+# make sync            # copy all converted files to necessary directories
+# make jekyll          # startup Docker container running Jekyll server
+# make containers      # launch all Docker containers
+# make commit          # git add/commit all synced files
+# make push            # git push to remote branch
+# make publish         # WARNING: convert, sync, commit, and push all at once
+# make stop-containers # simply stops all running Docker containers
+# make clear-nb        # simply clears Jupyter notebook output
+# make clear-output    # removes all converted files
+# make clear-jekyll    # removes Jekyll _site/ directory
+# make clean           # combines all clearing commands into one
+# make reset           # WARNING: completely reverses all changes
 
 ################################################################################
 # GLOBALS                                                                      #
@@ -205,21 +211,24 @@ unsync:
 	@ rm -f ${BASDR}/.synced_history
 
 # remove output from executed notebooks
-resetnb:
+clear-nb:
 	@ echo "Removing all output from Jupyter notebooks."
 	@ ${DCKRRUN} ${NBCLER} ${NOTEBOOKS}
 
 # delete all converted files
-delout:
+clear-output:
 	@ echo "Deleting all converted files."
 	@ if [ -d "${CURRENTDIR}/${OUTDR}" ]; then \
 	  rm -rf "${CURRENTDIR}/${OUTDR}"; \
 	fi
 
-# cleanup everything
-clean: delout resetnb
+# clean up Jekyll _site/ dir
+clear-jekyll:
 	@ echo "Removing Jekyll static site directory."
 	@ rm -rf ${CURRENTDIR}/_site
+
+# cleanup everything
+clean: clear-output clear-nb clear-jekyll
 
 # reset to original state undoing all changes
 reset: unsync clean
