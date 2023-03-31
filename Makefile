@@ -26,7 +26,7 @@
 # make cli args
 OFRMT := markdown
 THEME := dark
-TMPLT := tessay.md
+TMPLT := jekyll_markdown
 BASDR := jupyter
 OUTDR := ${BASDR}/converted
 INTDR := ${BASDR}/notebooks
