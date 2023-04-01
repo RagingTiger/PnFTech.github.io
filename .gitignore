@@ -23,3 +23,6 @@ jupyter/data/
 
 # containers
 *.running_containers
+
+# macos
+.DS_Store
