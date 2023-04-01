@@ -1,5 +1,6 @@
-.PHONY: all jupyter execute convert sync jekyll containers commit push publish \
-        stop-containers unsync clear-nb clear-output clear-jekyll clean reset
+.PHONY: all jupyter execute convert sync jekyll build-site containers commit \
+        push publish stop-containers restart-containers unsync clear-nb \
+        clear-output clear-jekyll clean reset
 
 # Usage:
 # make                 # execute and convert all Jupyter notebooks
