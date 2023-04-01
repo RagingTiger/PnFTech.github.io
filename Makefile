@@ -27,7 +27,7 @@
 OFRMT := markdown
 THEME := dark
 TMPLT := jekyll_markdown
-BASDR := jupyter
+BASDR := _jupyter
 OUTDR := ${BASDR}/converted
 INTDR := ${BASDR}/notebooks
 TMPDR := ${BASDR}/templates
