@@ -1,4 +1,10 @@
 name: PnF
+website: http://www.tessay.org
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-exclude: [vendor]
+pages_dir: /pages
+exclude:
+  - CNAME
+  - LICENSE
+  - Makefile
+  - README.md
