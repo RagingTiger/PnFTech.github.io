@@ -118,10 +118,11 @@ jupyter:
 	           -v ${CURRENTDIR}:/home/jovyan \
 	           ${DCKRIMG} && \
 	sleep 5 && \
-	  docker logs ${JPTCTNR} 2>&1 | \
-	    grep "http://127.0.0.1" | tail -n 1 | \
-	    sed "s/:8888/:$$(docker port ${JPTCTNR} | \
-	    grep '0.0.0.0:' | awk '{print $$3'} | sed 's/0.0.0.0://g')/g" && \
+	  echo "Server address: $$(docker logs ${JPTCTNR} 2>&1 | \
+	    grep http://127.0.0.1 | tail -n 1 | \
+	    sed s/:8888/:$$(docker port ${JPTCTNR} | \
+	    grep '0.0.0.0:' | awk '{print $$3}' | sed 's/0.0.0.0://g')/g | \
+			tr -d '[:blank:]')" && \
 	echo "${JPTCTNR}" >> .running_containers
 
 # rule for executing single notebooks before converting
@@ -154,7 +155,7 @@ sync:
 	@ rsync -havP ${OUTDR}/*.${OEXT} ${CURRENTDIR}/_posts/
 	@ rsync -havP ${OUTDR}/assets/ ${CURRENTDIR}/assets
 
-# create jekyll static site
+# launch jekyll local server Docker image
 jekyll:
 	@ echo "Launching Jekyll in Docker container -> ${JKLCTNR} ..."
 	@ docker run -d \
@@ -168,6 +169,17 @@ jekyll:
 	   echo "Server address: http://0.0.0.0:$$(docker port ${JKLCTNR} | \
 	    grep '0.0.0.0:' | awk '{print $$3'} | sed 's/0.0.0.0://g')" && \
 	echo "${JKLCTNR}" >> .running_containers
+
+# build jekyll static site
+build-site:
+	@ echo "Building Jekyll static site ..."
+	@ docker run -it \
+	           --rm \
+	           -v ${CURRENTDIR}:/srv/jekyll:Z \
+	           -p 4000 \
+	           jekyll/jekyll:4.2.0 \
+	             jekyll build && \
+	echo "Site successfully built!"
 
 # launch all docker containers
 containers: jupyter jekyll
@@ -190,11 +202,18 @@ publish: all sync commit push
 
 # stop all containers
 stop-containers:
+	@ echo "Stopping Docker containers ..."
 	@ while read container; do \
-		echo -n "Stopping Docker container -> "; \
-	  docker stop $$container; \
+	  echo "Container $$(docker stop $$container) stopped."; \
 	done < ${CURRENTDIR}/.running_containers
 	@ rm -f ${CURRENTDIR}/.running_containers
+
+# restart all containers
+restart-containers:
+	@ echo "Restarting Docker containers ... ";
+	@ while read container; do \
+		echo "Container $$(docker restart $$container) restarted!"; \
+	done < ${CURRENTDIR}/.running_containers
 
 # unsync all converted files back to original locations
 unsync:
