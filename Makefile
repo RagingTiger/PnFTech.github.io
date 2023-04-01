@@ -170,6 +170,17 @@ jekyll:
 	    grep '0.0.0.0:' | awk '{print $$3'} | sed 's/0.0.0.0://g')" && \
 	echo "${JKLCTNR}" >> .running_containers
 
+# build jekyll static site
+build-site:
+	@ echo "Building Jekyll static site ..."
+	@ docker run -it \
+	           --rm \
+	           -v ${CURRENTDIR}:/srv/jekyll:Z \
+	           -p 4000 \
+	           jekyll/jekyll:4.2.0 \
+	             jekyll build && \
+	echo "Site successfully built!"
+
 # launch all docker containers
 containers: jupyter jekyll
 
