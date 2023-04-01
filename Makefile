@@ -202,18 +202,18 @@ publish: all sync commit push
 
 # stop all containers
 stop-containers:
-	@ echo "Stopping Docker containers ..."
-	@ while read container; do \
-	  echo "Container $$(docker stop $$container) stopped."; \
-	done < ${CURRENTDIR}/.running_containers
-	@ rm -f ${CURRENTDIR}/.running_containers
+	@ if [ -f ${CURRENTDIR}/.running_containers ]; then \
+	  echo "Stopping Docker containers ..."; \
+	  while read container; do \
+	    echo "Container $$(docker stop $$container) stopped."; \
+	  done < ${CURRENTDIR}/.running_containers; \
+	  rm -f ${CURRENTDIR}/.running_containers; \
+	else \
+	  echo "${CURRENTDIR}/.running_containers file not found."; \
+	fi
 
 # restart all containers
-restart-containers:
-	@ echo "Restarting Docker containers ... ";
-	@ while read container; do \
-		echo "Container $$(docker restart $$container) restarted!"; \
-	done < ${CURRENTDIR}/.running_containers
+restart-containers: stop-containers containers
 
 # unsync all converted files back to original locations
 unsync:
