@@ -3,14 +3,14 @@
 		<head>
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<link rel="stylesheet" type="text/css" href="/assets/css/main.css">
 		</head>
 		<body>
 			<nav>
 	    		<ul>
 	        		<li><a href="/">Home</a></li>
-							<li><a href="/services">Services</a></li>
-							<li><a href="/faq">FAQ</a></li>
+							<li><a href="{{ site.pages_dir }}/services">Services</a></li>
+							<li><a href="{{ site.pages_dir }}/faq">FAQ</a></li>
 							<li><a href="/blog">Blog</a></li>
 	    		</ul>
 			</nav>
@@ -21,8 +21,8 @@
 			</div><!-- /.container -->
 
 			<footer>
-				<p><a href="/privacy">Privacy Policy</a> & <a href="/terms">Terms of Service</a><p>
-				
+				<p><a href="{{ site.pages_dir }}/privacy">Privacy Policy</a> & <a href="{{ site.pages_dir }}/terms">Terms of Service</a><p>
+
 
 
 

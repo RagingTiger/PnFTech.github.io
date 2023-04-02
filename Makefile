@@ -1,5 +1,6 @@
-.PHONY: all jupyter execute convert sync jekyll containers commit push publish \
-        stop-containers unsync clear-nb clear-output clear-jekyll clean reset
+.PHONY: all jupyter execute convert sync jekyll build-site containers commit \
+        push publish stop-containers restart-containers unsync clear-nb \
+        clear-output clear-jekyll clean reset
 
 # Usage:
 # make                 # execute and convert all Jupyter notebooks
@@ -27,7 +28,7 @@
 OFRMT := markdown
 THEME := dark
 TMPLT := jekyll_markdown
-BASDR := jupyter
+BASDR := _jupyter
 OUTDR := ${BASDR}/converted
 INTDR := ${BASDR}/notebooks
 TMPDR := ${BASDR}/templates
@@ -147,13 +148,18 @@ convert:
 
 # sync all converted files to necessary locations in TEssay source
 sync:
-	@ echo "_posts/$$(ls ${OUTDR} | grep ".*\.${OEXT}$$")" \
-	  >> ${BASDR}/.synced_history
-	@ echo "assets/images/$$(ls ${OUTDR}/assets/images)" \
-	  >> ${BASDR}/.synced_history
-	@ echo "Moving all jupyter converted files to _posts/ and assets/ dirs."
-	@ rsync -havP ${OUTDR}/*.${OEXT} ${CURRENTDIR}/_posts/
-	@ rsync -havP ${OUTDR}/assets/ ${CURRENTDIR}/assets
+	@ if [ -f ${OUTDR}/*.${OEXT} ]; then \
+	  echo "Moving all jupyter ${OFRMT} files to _posts/:"; \
+	  echo "_posts/$$(ls ${OUTDR} | grep ".*\.${OEXT}$$")" \
+	  >> ${BASDR}/.synced_history; \
+		rsync -havP ${OUTDR}/*.${OEXT} ${CURRENTDIR}/_posts/; \
+	fi
+	@ if [ -d ${OUTDR}/assets ]; then \
+	  echo "Moving all jupyter image files to /assets/images"; \
+	  echo "assets/images/$$(ls ${OUTDR}/assets/images)" \
+	  >> ${BASDR}/.synced_history; \
+		rsync -havP ${OUTDR}/assets/ ${CURRENTDIR}/assets; \
+	fi
 
 # launch jekyll local server Docker image
 jekyll:
