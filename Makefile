@@ -148,17 +148,17 @@ convert:
 
 # sync all converted files to necessary locations in TEssay source
 sync:
-	@ if [ -f ${OUTDR}/*.${OEXT} ]; then \
+	@ if ls ${OUTDR} | grep -q ".*\.${OEXT}$$"; then \
 	  echo "Moving all jupyter ${OFRMT} files to _posts/:"; \
-	  echo "_posts/$$(ls ${OUTDR} | grep ".*\.${OEXT}$$")" \
+	  ls ${OUTDR} | grep ".*\.${OEXT}$$" | awk '{printf "_posts/%s\n",$$1}' \
 	  >> ${BASDR}/.synced_history; \
-		rsync -havP ${OUTDR}/*.${OEXT} ${CURRENTDIR}/_posts/; \
+	  rsync -havP ${OUTDR}/*.${OEXT} ${CURRENTDIR}/_posts/; \
 	fi
-	@ if [ -d ${OUTDR}/assets ]; then \
+	@ if [ -d "${OUTDR}/assets" ]; then \
 	  echo "Moving all jupyter image files to /assets/images"; \
-	  echo "assets/images/$$(ls ${OUTDR}/assets/images)" \
+	  ls ${OUTDR}/assets/images | awk '{printf "assets/images/%s\n",$$1}'  \
 	  >> ${BASDR}/.synced_history; \
-		rsync -havP ${OUTDR}/assets/ ${CURRENTDIR}/assets; \
+	  rsync -havP ${OUTDR}/assets/ ${CURRENTDIR}/assets; \
 	fi
 
 # launch jekyll local server Docker image
